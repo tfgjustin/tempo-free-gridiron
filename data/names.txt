@@ -1,0 +1,132 @@
+AKRON,Akron
+ALABAMA,Alabama
+UAB,UAB
+APPALACHIAN ST.,Appalachian State
+ARIZONA ST.,Arizona State
+ARIZONA,Arizona
+ARKANSAS ST.,Arkansas State
+ARKANSAS,Arkansas
+AUBURN,Auburn
+AUSTIN PEAY,Austin Peay
+BALL ST.,Ball State
+BAYLOR,Baylor
+BOISE ST.,Boise State
+BOSTON COLLEGE,Boston College
+BOWLING GREEN,Bowling Green
+BYU,BYU
+BUFFALO,Buffalo
+FRESNO ST.,Fresno State
+CALIFORNIA,California
+UCLA,UCLA
+UCF,UCF
+CENTRAL MICH.,Central Michigan
+CINCINNATI,Cincinnati
+CLEMSON,Clemson
+COASTAL CARO.,Coastal Carolina
+COLORADO ST.,Colorado State
+COLORADO,Colorado
+CONNECTICUT,Connecticut
+DUKE,Duke
+EAST CAROLINA,East Carolina
+EASTERN MICH.,Eastern Michigan
+FLA. ATLANTIC,FL-Atlantic
+FIU,FIU
+FLORIDA ST.,Florida State
+FLORIDA,Florida
+GA. SOUTHERN,Georgia Southern
+GEORGIA STATE,Georgia State
+GEORGIA TECH,Georgia Tech
+GEORGIA,Georgia
+HAWAII,Hawaii
+HOUSTON,Houston
+IDAHO,Idaho
+ILLINOIS,Illinois
+INDIANA,Indiana
+IOWA ST.,Iowa State
+IOWA,Iowa
+KANSAS ST.,Kansas State
+KANSAS,Kansas
+KENT ST.,Kent State
+KENTUCKY,Kentucky
+LIBERTY,Liberty
+LSU,LSU
+LOUISIANA TECH,LA Tech
+LOUISVILLE,Louisville
+MARSHALL,Marshall
+MARYLAND,Maryland
+MASSACHUSETTS,Massachusetts
+MEMPHIS,Memphis
+MIAMI (OH),Miami-OH
+MIAMI (FL),Miami-FL
+MICHIGAN ST.,Michigan State
+MICHIGAN,Michigan
+MIDDLE TENN.,Middle Tenn.
+MINNESOTA,Minnesota
+MISSISSIPPI ST.,Mississippi State
+MISSISSIPPI,Mississippi
+MISSOURI,Missouri
+NORTH CAROLINA,North Carolina
+CHARLOTTE,Charlotte
+NEBRASKA,Nebraska
+UNLV,UNLV
+NEVADA,Nevada
+NEW MEXICO ST.,New Mexico State
+NEW MEXICO,New Mexico
+NORTH CAROLINA ST.,North Carolina State
+NORTH TEXAS,North Texas
+LA.-MONROE,LA-Monroe
+NORTHERN ILL.,Northern Ill.
+NORTHWESTERN,Northwestern
+NOTRE DAME,Notre Dame
+OHIO ST.,Ohio State
+OHIO,Ohio
+OLD DOMINION,Old Dominion
+OKLAHOMA ST.,Oklahoma State
+OKLAHOMA,Oklahoma
+OREGON ST.,Oregon State
+OREGON,Oregon
+PENN ST.,Penn State
+PITTSBURGH,Pittsburgh
+PURDUE,Purdue
+RICE,Rice
+RUTGERS,Rutgers
+SAN DIEGO ST.,SDSU
+SAN JOSE ST.,SJSU
+SOUTH ALA.,South Alabama
+SOUTH CAROLINA,South Carolina
+SOUTH FLA.,South Florida
+SOUTHERN CALIFORNIA,USC
+SMU,SMU
+SOUTHERN MISS.,Southern Miss.
+LA.-LAFAYETTE,LA-Lafayette
+STANFORD,Stanford
+SYRACUSE,Syracuse
+TEMPLE,Temple
+TENNESSEE,Tennessee
+TEXAS A&M,Texas A&M
+TEXAS ST.,Texas State
+TCU,TCU
+TEXAS TECH,Texas Tech
+TEXAS,Texas
+UTEP,UTEP
+TOLEDO,Toledo
+TROY,Troy
+TULANE,Tulane
+TULSA,Tulsa
+AIR FORCE,Air Force
+ARMY,Army
+NAVY,Navy
+UTAH ST.,Utah State
+UTAH,Utah
+UTSA,UTSA
+VANDERBILT,Vanderbilt
+VIRGINIA TECH,Virginia Tech
+VIRGINIA,Virginia
+WAKE FOREST,Wake Forest
+WASHINGTON ST.,Washington State
+WASHINGTON,Washington
+WEST VIRGINIA,West Virginia
+WESTERN KY.,Western Kentucky
+WESTERN MICH.,Western Michigan
+WISCONSIN,Wisconsin
+WYOMING,Wyoming

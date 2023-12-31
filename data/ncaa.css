@@ -1,0 +1,232 @@
+.changeBad { color:red; }
+.changeGood { color:green; }
+span.rank
+{
+  font-family:"Monaco";
+  font-size:x-small;
+  text-align:right;
+  padding-left:5px;
+}
+span.score
+{
+  font-family:"Monaco";
+  font-size:small;
+  text-align:right;
+  padding-left:5px;
+  padding-right:5px;
+}
+.bigRank
+{
+  font-family:"Monaco";
+  font-size:medium;
+  padding-left:10px;
+}
+tr.rba {
+  background:#8b0a00;
+  color:white;
+}
+tr.tfg {
+  background:#001a57;
+  color:white;
+}
+tr.all {
+  background:#46122b;
+  color:white;
+}
+.teamName {
+  font-family:"Verdana";
+  font-size:medium;
+  text-align:left;
+  padding-left:5px;
+  padding-right:15px;
+}
+.rba6 { background:#8b0a00; color:white; }
+.rba5 { background:#951e15; color:white; }
+.rba4 { background:#9e332a; color:white; }
+.rba3 { background:#b25c55; color:white; }
+.rba2 { background:#cf9995; color:black; }
+.rba1 { background:#ecd6d5; color:black; }
+.tfg6 { background:#001a57; color:white; }
+.tfg5 { background:#2a4073; color:white; }
+.tfg4 { background:#55668f; color:white; }
+.tfg3 { background:#808dab; color:white; }
+.tfg2 { background:#aab3c7; color:black; }
+.tfg1 { background:#d5d9e3; color:black; }
+tr.oddRow
+{
+  background-color:#e0e0e0;
+}
+tr.evenRow
+{
+  background-color:#f8f8f8;
+}
+tr.winRow
+{
+  background-color:#ddffdd;
+}
+tr.lossRow
+{
+  background-color:#ffdddd;
+}
+th.divide
+{
+  border-left: 1px solid #000;
+}
+td.stats
+{
+  padding-left:8px;
+  padding-right:8px;
+  text-align:right;
+  font-family:"Monaco";
+  font-size:small;
+  border-left: 1px dotted #000;
+}
+td.rank
+{
+  font-family:"Monaco";
+  font-size:x-small;
+  text-align:right;
+  padding-left:5px;
+}
+td.score
+{
+  font-family:"Monaco";
+  font-size:small;
+  text-align:right;
+  padding-left:5px;
+  padding-right:5px;
+}
+table.win-loss
+{
+  border-collapse:collapse;
+  margin-left:10px;
+  margin-right:auto;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+td.win
+{
+  background-color:#ddffdd;
+}
+td.bigWin
+{
+  background-color:#88ff88;
+}
+td.bigLoss
+{
+  background-color:#ff8888;
+}
+td.loss
+{
+  background-color:#ffdddd;
+}
+td.byeWeek
+{
+  background-color:#f0f0f0;
+}
+td.future
+{
+  background-color:#d0d0d0;
+}
+table.conf-table
+{
+  border-collapse:collapse;
+  margin-left:auto;
+  margin-right:auto;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+table.conf-table th
+{
+  text-align:center;
+}
+table.conf-table th.confName
+{
+  font-family:"Verdana";
+  font-size:x-large;
+  color:white;
+  border-bottom: 1px solid #000;
+}
+table.conf-table th.subConfName
+{
+  font-family:"Verdana";
+  font-size:large;
+  color:white;
+  border-bottom: 1px solid #000;
+}
+table.conf-table td
+{
+  border-bottom: 1px solid #000;
+}
+table.conf-table td.teamName
+{
+  font-family:"Verdana"
+  font-size:medium;
+  text-align:left;
+  padding-right:10px;
+}
+table.conf-table td.disclaimer
+{
+  text-align:left;
+  border-top: 1px solid #000;
+  font-family:"Verdana";
+  font-size:small;
+  font-style:italic;
+}
+table.pred-key {
+  border-collapse:collapse;
+  border: 1px solid #000;
+  padding: 0px;
+  font-family:"Verdana"
+  margin-left:auto;
+  margin-right:auto;
+}
+table.pred-key th {
+  border-bottom: 1px solid #000;
+}
+table.pred-table
+{
+  border-collapse:collapse;
+  margin-left:15px;
+  margin-right:auto;
+  border: 2px solid #000;
+}
+table.pred-table th
+{
+  text-align:center;
+  border-bottom: 2px solid #000;
+}
+table.pred-table td
+{
+  border-bottom: 1px solid #000;
+}
+table.rank-table
+{
+  border-collapse:collapse;
+  margin-right:auto;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+table.rank-table th
+{
+  text-align:center;
+}
+table.rank-table td
+{
+  text-align:right;
+}
+table.rank-table td.subRank
+{
+  padding-left:0px;
+  padding-right:10px;
+  font-family:"Monaco";
+  font-size:x-small;
+  text-align:right;
+  border-right: 1px dotted #000;
+}
+table.rank-table td.teamName
+{
+  font-family:"Verdana";
+  font-size:medium;
+  text-align:left;
+}

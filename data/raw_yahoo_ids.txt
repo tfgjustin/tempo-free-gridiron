@@ -1,0 +1,3323 @@
+    225 ccn,Colorado,COLO
+    166 wwe,Weber St.,WEBR
+    152 nne,UNLV,UNLV
+    137 hhe,Houston,HOU
+    137 ffr,Florida Atlantic,FAU
+    137 eea,East Carolina,ECU
+    132 ssq,LA Lafayette,ULL
+    131 iia,Idaho,IDA
+    129 nnh,New Mexico,UNM
+    128 nni,New Mexico St.,NMSU
+    126 aaz,UAB,UAB
+    126 aac,Akron,AKR
+    125 mmc,Marshall,MARS
+    124 eef,East. Michigan,EMU
+    123 uua,UCLA,UCLA
+    121 ssc,San Jose St.,SJSU
+    121 ccg,Cent. Michigan,CEMI
+    120 mmj,Miami (OH),MIAO
+    120 kka,Kansas,KAN
+    120 bba,Ball St.,BAST
+    119 rrb,Rice,RICE
+    118 mmg,Memphis,MEMP
+    118 bbb,Baylor,BAY
+    114 nnp,North Texas,UNT
+    114 nnb,LA Monroe,ULM
+    114 bbp,Buffalo,BUF
+    113 wwc,Washington St.,WAST
+    113 tts,Tulane,TULA
+    113 mmm,Middle Tenn. St.,MTSU
+    112 wwb,Washington,WASH
+    112 sso,Southern Miss,USM
+    112 iie,Indiana,IND
+    112 cco,Colorado St.,COST
+    110 ttv,Troy,TROY
+    110 ooa,Ohio,OHIO
+    110 hhc,Hawaii,HAW
+    109 ffe,Fresno St.,FRST
+    109 aap,Arkansas St.,ARST
+    108 wwl,W. Michigan,WMU
+    106 wwa,Wake Forest,WAKE
+    106 aaq,Army,ARMY
+    104 tto,Texas Tech,TEXT
+    104 bbh,Bowling Green,BGSU
+    103 wwq,Wyoming,WYO
+    103 nnf,Nevada,NEV
+    103 ddf,Duke,DUKE
+    101 uud,Utah St.,UTST
+    100 nns,Northern Illinois,NIU
+    100 kkc,Kent St.,KEST
+     99 mmd,Maryland,MD
+     98 ssh,SMU,SMU
+     98 llg,Louisiana Tech,LT
+     98 iih,Iowa St.,IAST
+     97 ttl,UTEP,UTEP
+     97 ccq,Connecticut,CONN
+     96 nna,Navy,NAVY
+     96 mmq,Mississippi St.,MSST
+     96 fli,Florida Intl.,FIU
+     95 ttp,Toledo,TOL
+     95 nnn,N.C. State,NCST
+     94 ttt,Tulsa,TULS
+     94 kkd,Kentucky,UK
+     94 iic,Illinois,ILL
+     94 bbf,Boston Coll.,BC
+     93 tth,Texas,TEX
+     93 nnv,Northwestern,N.W.
+     92 oof,Oregon St.,ORST
+     92 ccd,California,CAL
+     91 wwk,West. Kentucky,WEKY
+     91 ppj,Purdue,PURD
+     91 nnd,Nebraska,NEB
+     91 mmi,Miami (FL),MIAF
+     91 aab,Air Force,AFA
+     88 ooc,Oklahoma,OKLA
+     88 aal,Arizona,ARIZ
+     86 sbn,South Florida,SFLA
+     86 mmn,Minnesota,MINN
+     84 wwh,West Virginia,WVU
+     84 uuc,Utah,UTAH
+     84 uub,USC,USC
+     84 nnl,North Carolina,UNC
+     84 ggc,Georgia Tech,GT
+     83 mmo,Mississippi,MISS
+     82 vva,Vanderbilt,VAND
+     82 ssw,Syracuse,SYRA
+     82 rrd,Rutgers,RUT
+     82 ood,Oklahoma St.,OKST
+     82 mms,Missouri,MO
+     82 ccj,Cincinnati,CINC
+     82 bbi,BYU,BYU
+     81 ttj,Texas A&M,TAMU
+     81 ttd,Tennessee,TENN
+     81 aan,Arkansas,ARK
+     80 kkb,Kansas St.,KSST
+     79 wwo,Wisconsin,WIS
+     79 mmk,Michigan,MICH
+     79 ccf,UCF,UCF
+     79 aam,Arizona St.,AZST
+     78 ooe,Oregon,ORE
+     76 vvd,Virginia Tech,VT
+     76 ssi,South Carolina,SCAR
+     76 ppd,Pittsburgh,PITT
+     75 vvb,Virginia,UVA
+     75 ssb,San Diego St.,SDSU
+     75 ggb,Georgia,UGA
+     75 aar,Auburn,AUB
+     71 llh,Louisville,LOUI
+     70 ccl,Clemson,CLEM
+     69 iig,Iowa,IOWA
+     67 tta,TCU,TCU
+     66 wwe,Wyoming,WYO
+     66 oob,Ohio St.,OHST
+     63 ffc,Florida St.,FLST
+     62 ttb,Temple,TEM
+     62 mme,Massachusetts,MASS
+     60 ppb,Penn St.,PSU
+     59 mml,Michigan St.,MIST
+     58 sal,South Alabama,SOAL
+     57 sss,Stanford,STAN
+     57 ffa,Florida,FLA
+     56 ssv,Texas St.,TXST
+     55 nnx,Notre Dame,ND
+     54 lli,LSU,LSU
+     54 aad,Alabama,ALA
+     53 iib,Idaho St.,IDST
+     53 bbe,Boise St.,BOST
+     49 aas,Austin Peay,AUSP
+     48 ppg,Presbyterian,PRES
+     48 ccn,Hawaii,HAW
+     46 ccz,Charleston Sou.,CHSO
+     43 ssu,Missouri St.,MOST
+     43 nnw,Northwestern St.,NWST
+     41 nnk,Nicholls,NICH
+     39 sse,SE Louisiana,SLU
+     38 wwe,Utah St.,UTST
+     38 ssk,South Dakota,SDAK
+     38 ssj,S. Carolina St.,SCST
+     38 ppe,Portland St.,POST
+     36 wwi,Western Carolina,WCU
+     35 uca,Central Arkansas,UCA
+     35 ttg,Tennessee Tech,TNT
+     35 mmx,Morgan St.,MORG
+     35 ccb,UC Davis,UCD
+     34 hhe,Southern Miss,USM
+     32 tsa,UTSA,UTSA
+     32 sst,Stephen F. Austin,SFA
+     32 mmf,McNeese St.,MCN
+     31 ssa,Sam Houston St.,SHST
+     31 ggf,Gardner-Webb,GAWE
+     30 ffb,Florida A&M,FAMU
+     28 tte,Tenn-Martin,UTM
+     28 sbf,Stony Brook,STBR
+     28 nnr,Northern Arizona,NAU
+     28 caa,Cal Poly,CPSLO
+     27 vve,Virginia Military,VMI
+     27 ttq,Towson,TOW
+     27 ses,Sacramento St.,CSUS
+     26 jjc,Jacksonville St.,JCVST
+     26 gag,Georgia St.,GAST
+     26 eeo,Elon,ELON
+     25 ssp,Southern Utah,SUU
+     25 ffg,Furman,FUR
+     25 aak,Appalachian St.,APST
+     24 wwj,Western Ill.,WIU
+     24 nan,Norfolk St.,NOST
+     24 iif,Indiana St.,INST
+     24 cck,Citadel,CIT
+     23 ssf,SE Missouri St.,SEMO
+     23 sks,Samford,SAM
+     23 nno,North Dakota,NDAK
+     23 nng,New Hampshire,UNH
+     23 mmz,Murray St.,MUST
+     22 ssx,Savannah St.,SSU
+     22 ffl,Fordham,FOR
+     22 cas,Chattanooga,CHAT
+     21 nnt,Northern Iowa,UNI
+     21 nna,East Carolina,ECU
+     21 eeg,Eastern Wash.,EWU
+     21 eed,Eastern Illinois,EIU
+     20 vvh,Villanova,VILL
+     20 nnz,Northern Colorado,NCO
+     20 nns,East. Michigan,EMU
+     20 jjb,James Madison,JMU
+     20 cbi,Coastal Carolina,CCU
+     19 sds,South Dakota St.,SDKS
+     19 mma,Maine,MAIN
+     19 lab,Lamar,LAM
+     19 kkb,Kansas,KAN
+     18 wwo,Michigan St.,MIST
+     18 vva,Wake Forest,WAKE
+     18 tto,New Mexico,UNM
+     18 ooe,USC,USC
+     18 nac,N.C. Central,NCCNT
+     17 yyb,Youngstown St.,YSU
+     17 wwp,Wofford,WOFF
+     17 ttn,Texas Southern,TXSO
+     17 ttb,Army,ARMY
+     17 ssn,Southern Ill.,SIU
+     17 rrc,Richmond,RICH
+     17 ood,Texas Tech,TEXT
+     17 nns,Akron,AKR
+     17 lle,Liberty,LIB
+     17 ggh,Georgia Southern,GASO
+     17 ggc,North Carolina,UNC
+     17 eea,UAB,UAB
+     17 bbe,Wyoming,WYO
+     17 aah,Alcorn St.,ALCR
+     16 wwk,LA Lafayette,ULL
+     16 ttp,East. Michigan,EMU
+     16 ssb,Wyoming,WYO
+     16 ooe,Arizona St.,AZST
+     16 ooc,Baylor,BAY
+     16 nns,Ball St.,BAST
+     16 nnk,Nicholls St.,NIST
+     16 mms,Texas A&M,TAMU
+     16 mmj,Akron,AKR
+     16 hhe,Houston,USM
+     16 eee,Eastern Kentucky,EKU
+     15 uud,San Jose St.,SJSU
+     15 tta,Baylor,BAY
+     15 ssc,New Mexico St.,NMSU
+     15 rrb,Tulane,TULA
+     15 rra,Rhode Island,URI
+     15 ooe,Washington St.,WAST
+     15 mmi,Duke,DUKE
+     15 ffe,Nevada,NEV
+     15 ffc,Miami (FL),MIAF
+     15 ffa,Vanderbilt,VAND
+     15 ddf,Wake Forest,WAKE
+     15 ccn,Hawaii,COLO
+     15 ccg,East. Michigan,EMU
+     15 ccf,Marshall,MARS
+     15 bbc,Bethune-Cookman,BCC
+     15 aar,Mississippi,MISS
+     15 aad,Tennessee,TENN
+     14 wwn,William & Mary,W&M
+     14 ttv,UAB,UAB
+     14 ttv,Florida Atlantic,FAU
+     14 ttp,W. Michigan,WMU
+     14 ooe,Oregon St.,ORST
+     14 ood,Texas,TEX
+     14 ood,Kansas,KAN
+     14 nnv,Indiana,IND
+     14 nno,San Diego St.,SDSU
+     14 nnl,Virginia,UVA
+     14 mmo,Tulane,TULA
+     14 llg,San Jose St.,SJSU
+     14 hhe,SMU,SMU
+     14 ggd,Grambling St.,GRAM
+     14 ggb,Kentucky,UK
+     14 ggb,Auburn,AUB
+     14 fli,Troy,TROY
+     14 ffc,Maryland,MD
+     14 ccl,Wake Forest,WAKE
+     14 bbb,Texas,TEX
+     14 bba,Cent. Michigan,CEMI
+     13 vvd,North Carolina,UNC
+     13 uua,Arizona St.,AZST
+     13 ttt,Houston,HOU
+     13 sss,California,CAL
+     13 ssq,Troy,TROY
+     13 ssh,Tulane,TULA
+     13 ppb,Indiana,IND
+     13 oof,Arizona,ARIZ
+     13 ood,Arizona,ARIZ
+     13 nnx,Navy,NAVY
+     13 nnf,UNLV,UNLV
+     13 mmm,West. Kentucky,WEKY
+     13 mmk,Purdue,PURD
+     13 mmg,UAB,UAB
+     13 mmd,Virginia,UVA
+     13 mmc,East Carolina,ECU
+     13 kkc,Miami (OH),MIAO
+     13 ffa,Tennessee,TENN
+     13 ccl,Auburn,AUB
+     13 bbb,Texas Tech,TEXT
+     13 aap,LA Lafayette,ULL
+     13 aam,Arizona,ARIZ
+     13 aal,Stanford,STAN
+     13 aad,Arkansas,ARK
+     12 wwo,Purdue,PURD
+     12 wwc,UCLA,UCLA
+     12 vvd,Boston Coll.,BC
+     12 vva,Kentucky,UK
+     12 uuc,Iowa St.,IAST
+     12 ttj,Louisiana Tech,LT
+     12 sss,Washington,WASH
+     12 sss,UCLA,UCLA
+     12 ssi,Kentucky,UK
+     12 ssi,Clemson,CLEM
+     12 ssc,UCLA,UCLA
+     12 ppd,Syracuse,SYRA
+     12 ooe,California,CAL
+     12 nns,W. Michigan,WMU
+     12 nnn,North Carolina,UNC
+     12 nnn,Clemson,CLEM
+     12 nnf,Hawaii,HAW
+     12 nnd,Washington,WASH
+     12 mmo,LSU,LSU
+     12 mml,Northwestern,N.W.
+     12 mmi,Georgia Tech,GT
+     12 llh,Rutgers,RUT
+     12 llg,New Mexico St.,NMSU
+     12 kkc,Bowling Green,BGSU
+     12 hhe,Tulane,TULA
+     12 ffc,Virginia Tech,VT
+     12 eef,W. Michigan,WMU
+     12 eea,Southern Miss,USM
+     12 ccf,Memphis,MEMP
+     12 bbe,Nevada,NEV
+     12 aar,South Carolina,SCAR
+     12 aap,Troy,TROY
+     12 aap,North Texas,UNT
+     11 wwq,New Mexico,UNM
+     11 wwo,Indiana,IND
+     11 wwl,Cent. Michigan,CEMI
+     11 wwl,Ball St.,BAST
+     11 wwb,Washington St.,WAST
+     11 vvb,Duke,DUKE
+     11 tts,UTEP,UTEP
+     11 tto,Iowa St.,IAST
+     11 ttj,Oklahoma,OKLA
+     11 tth,Texas Tech,TEXT
+     11 ttd,South Carolina,SCAR
+     11 tta,SMU,SMU
+     11 tta,New Mexico,UNM
+     11 ssw,Cincinnati,CINC
+     11 ssv,Houston,HOU
+     11 sss,Notre Dame,ND
+     11 ssq,Oklahoma St.,OKST
+     11 ssq,LA Monroe,ULM
+     11 sso,Memphis,MEMP
+     11 ssh,Rice,RICE
+     11 ssc,Idaho,IDA
+     11 rrb,UTEP,UTEP
+     11 nnp,West. Kentucky,WEKY
+     11 nnl,Duke,DUKE
+     11 mmv,Montana St.,MTST
+     11 mmq,Kentucky,UK
+     11 mmn,Illinois,ILL
+     11 mmm,Memphis,MEMP
+     11 mmc,Southern Miss,USM
+     11 lli,Texas A&M,TAMU
+     11 llh,Syracuse,SYRA
+     11 iig,Minnesota,MINN
+     11 hhe,Rice,RICE
+     11 hhc,Fresno St.,FRST
+     11 ggc,Clemson,CLEM
+     11 fli,LA Lafayette,ULL
+     11 ffr,West. Kentucky,WEKY
+     11 ccl,Boston Coll.,BC
+     11 ccj,Louisville,LOUI
+     11 aan,South Carolina,SCAR
+     11 aan,Auburn,AUB
+     11 aam,Oregon St.,ORST
+     10 wwk,Arkansas St.,ARST
+     10 wwb,USC,USC
+     10 vvh,Temple,TEM
+     10 vva,Mississippi,MISS
+     10 uub,UCLA,UCLA
+     10 uub,Arizona,ARIZ
+     10 ttv,Middle Tenn. St.,MTSU
+     10 ttt,UTEP,UTEP
+     10 tto,Oklahoma,OKLA
+     10 ttj,Auburn,AUB
+     10 tth,Mississippi,MISS
+     10 ttf,Tennessee St.,TNST
+     10 ttd,Memphis,MEMP
+     10 ttd,Georgia,UGA
+     10 ssq,Florida Atlantic,FAU
+     10 sso,UCF,UCF
+     10 sso,Navy,NAVY
+     10 ssl,Southern,SOU
+     10 sse,Tulane,TULA
+     10 sbn,Cincinnati,CINC
+     10 rrd,South Florida,SFLA
+     10 ood,Tulsa,TULS
+     10 ood,Kansas St.,KSST
+     10 ooc,Oklahoma St.,OKST
+     10 ooa,Miami (OH),MIAO
+     10 ooa,Marshall,MARS
+     10 nnx,USC,USC
+     10 nnx,Michigan St.,MIST
+     10 nnx,Boston Coll.,BC
+     10 nnp,LA Monroe,ULM
+     10 nnd,Wisconsin,WIS
+     10 nnd,Oklahoma St.,OKST
+     10 nnb,West. Kentucky,WEKY
+     10 nnb,Tulane,TULA
+     10 mmq,Mississippi,MISS
+     10 mmq,Memphis,MEMP
+     10 mmm,Florida Intl.,FIU
+     10 mml,Michigan,MICH
+     10 mmj,Cent. Michigan,CEMI
+     10 mmi,Virginia,UVA
+     10 mme,Michigan,MICH
+     10 kkb,Baylor,BAY
+     10 iih,Kansas St.,KSST
+     10 iih,Kansas,KAN
+     10 iig,Michigan,MICH
+     10 iig,Indiana,IND
+     10 iie,Purdue,PURD
+     10 iie,Illinois,ILL
+     10 iid,Illinois St.,ILST
+     10 iic,Northwestern,N.W.
+     10 fli,Florida Atlantic,FAU
+     10 ffc,N.C. State,NCST
+     10 eef,Ball St.,BAST
+     10 ddf,Georgia Tech,GT
+     10 ccl,Maryland,MD
+     10 ccj,Connecticut,CONN
+     10 ccg,Toledo,TOL
+     10 ccf,Tulane,TULA
+     10 ccd,Washington St.,WAST
+     10 bbh,Ohio,OHIO
+     10 bbe,New Mexico St.,NMSU
+     10 bbe,Fresno St.,FRST
+     10 bbe,Colorado St.,COST
+     10 bba,Toledo,TOL
+     10 bba,Kent St.,KEST
+     10 aaz,Southern Miss,USM
+     10 aaq,East. Michigan,EMU
+     10 aap,Florida Intl.,FIU
+     10 aad,Duke,DUKE
+     10 aab,UNLV,UNLV
+      9 wwl,Akron,AKR
+      9 wwk,Troy,TROY
+      9 wwk,Kentucky,UK
+      9 uud,UTSA,UTSA
+      9 uuc,New Mexico,UNM
+      9 uuc,BYU,BYU
+      9 uua,Stanford,STAN
+      9 uua,Rice,RICE
+      9 ttv,North Texas,UNT
+      9 ttt,SMU,SMU
+      9 ttt,Memphis,MEMP
+      9 ttt,East Carolina,ECU
+      9 tts,Houston,HOU
+      9 tto,Texas St.,TXST
+      9 ttl,Tulane,TULA
+      9 ttl,Houston,HOU
+      9 tta,Utah,UTAH
+      9 ssw,South Florida,SFLA
+      9 sss,Colorado,COLO
+      9 ssq,North Texas,UNT
+      9 sso,Tulsa,TULS
+      9 sso,East Carolina,ECU
+      9 ssc,UTSA,UTSA
+      9 sbn,Louisville,LOUI
+      9 rrd,Cincinnati,CINC
+      9 rrb,Tulsa,TULS
+      9 ppj,Illinois,ILL
+      9 ppd,Notre Dame,ND
+      9 oof,UCLA,UCLA
+      9 ooe,Tennessee,TENN
+      9 ooe,Colorado,COLO
+      9 ooe,Arizona,ARIZ
+      9 ood,Oklahoma,OKLA
+      9 ood,LA Lafayette,ULL
+      9 ooc,West Virginia,WVU
+      9 ooc,Texas,TEX
+      9 ooc,Kansas,KAN
+      9 oob,Minnesota,MINN
+      9 oob,Illinois,ILL
+      9 nnv,Penn St.,PSU
+      9 nnp,Florida Atlantic,FAU
+      9 nnn,Maryland,MD
+      9 nnb,Middle Tenn. St.,MTSU
+      9 nds,North Dakota St.,NDSU
+      9 mmq,Michigan,MICH
+      9 mmm,Georgia Tech,GT
+      9 mml,Iowa,IOWA
+      9 mmi,Boston Coll.,BC
+      9 mmd,Boston Coll.,BC
+      9 llh,Pittsburgh,PITT
+      9 llg,Texas St.,TXST
+      9 llg,Illinois,ILL
+      9 llg,Houston,HOU
+      9 kkb,West Virginia,WVU
+      9 jja,Jackson St.,JACK
+      9 iic,Penn St.,PSU
+      9 iia,Louisiana Tech,LT
+      9 hhe,UTEP,UTEP
+      9 ffa,Kentucky,UK
+      9 ffa,Florida St.,FLST
+      9 eea,South Carolina,SCAR
+      9 ccq,Syracuse,SYRA
+      9 cco,Colorado,COLO
+      9 ccl,Florida St.,FLST
+      9 ccl,Duke,DUKE
+      9 ccf,Tulsa,TULS
+      9 ccf,Akron,AKR
+      9 ccd,Arizona St.,AZST
+      9 bbp,Ohio,OHIO
+      9 bbi,New Mexico St.,NMSU
+      9 bbe,UNLV,UNLV
+      9 bbe,San Diego St.,SDSU
+      9 bbb,West Virginia,WVU
+      9 bbb,Oklahoma St.,OKST
+      9 aap,Middle Tenn. St.,MTSU
+      9 aan,Mississippi St.,MSST
+      9 aam,Colorado,COLO
+      9 aab,Army,ARMY
+      8 wwo,UNLV,UNLV
+      8 wwo,Northern Illinois,NIU
+      8 wwo,Michigan,MICH
+      8 wwl,Toledo,TOL
+      8 wwh,Syracuse,SYRA
+      8 wwe,Utah St.,WEBR
+      8 vvd,Miami (FL),MIAF
+      8 uud,Louisiana Tech,LT
+      8 uub,Washington St.,WAST
+      8 uub,Hawaii,HAW
+      8 ttv,Tennessee,TENN
+      8 ttv,Oklahoma St.,OKST
+      8 ttt,UAB,UAB
+      8 ttt,Marshall,MARS
+      8 tts,Tulsa,TULS
+      8 ttp,Northern Illinois,NIU
+      8 ttp,Cent. Michigan,CEMI
+      8 ttp,Ball St.,BAST
+      8 ttj,SMU,SMU
+      8 ttj,Kansas,KAN
+      8 ttj,Iowa St.,IAST
+      8 tth,UCLA,UCLA
+      8 tth,Oklahoma,OKLA
+      8 ttb,Akron,AKR
+      8 tta,UNLV,UNLV
+      8 sss,Virginia Tech,VT
+      8 sss,Oregon,ORE
+      8 sss,Duke,DUKE
+      8 sss,Arizona,ARIZ
+      8 ssq,Middle Tenn. St.,MTSU
+      8 ssp,UNLV,UNLV
+      8 sso,Tulane,TULA
+      8 sso,Houston,HOU
+      8 ssb,New Mexico St.,NMSU
+      8 ssb,Air Force,AFA
+      8 ssa,Baylor,BAY
+      8 rrc,Virginia,UVA
+      8 rrb,North Texas,UNT
+      8 ppd,South Florida,SFLA
+      8 ppd,Connecticut,CONN
+      8 oof,Washington,WASH
+      8 oof,Washington St.,WAST
+      8 ooe,Stanford,STAN
+      8 ood,Missouri,MO
+      8 ooc,Texas Tech,TEXT
+      8 ooc,Kansas St.,KSST
+      8 oob,Michigan,MICH
+      8 oob,Indiana,IND
+      8 ooa,Massachusetts,MASS
+      8 ooa,LA Monroe,ULM
+      8 ooa,Cent. Michigan,CEMI
+      8 ooa,Buffalo,BUF
+      8 nnx,Miami (FL),MIAF
+      8 nnn,Miami (FL),MIAF
+      8 nnn,Georgia Tech,GT
+      8 nnh,New Mexico St.,NMSU
+      8 nnh,Air Force,AFA
+      8 nnf,New Mexico St.,NMSU
+      8 nnf,Arizona,ARIZ
+      8 nnd,Minnesota,MINN
+      8 nnd,Kansas St.,KSST
+      8 nnb,Florida Intl.,FIU
+      8 nna,Air Force,AFA
+      8 mmu,Montana,MONT
+      8 mmq,Houston,HOU
+      8 mmn,Wisconsin,WIS
+      8 mmk,Notre Dame,ND
+      8 mmj,Bowling Green,BGSU
+      8 mmi,North Carolina,UNC
+      8 mmg,Marshall,MARS
+      8 mmg,East Carolina,ECU
+      8 mmd,West Virginia,WVU
+      8 mmc,UAB,UAB
+      8 lli,West Virginia,WVU
+      8 lli,Mississippi,MISS
+      8 lli,Florida,FLA
+      8 llg,Virginia,UVA
+      8 kkc,East. Michigan,EMU
+      8 kkb,Texas Tech,TEXT
+      8 kkb,Oklahoma St.,OKST
+      8 iig,Northwestern,N.W.
+      8 iie,Massachusetts,MASS
+      8 iic,Michigan,MICH
+      8 iic,Baylor,BAY
+      8 hhe,UAB,UAB
+      8 hhe,Tulsa,TULS
+      8 hhe,North Texas,UNT
+      8 hhe,Memphis,MEMP
+      8 hhe,Marshall,MARS
+      8 hhc,New Mexico St.,NMSU
+      8 ggc,N.C. State,NCST
+      8 ggc,Middle Tenn. St.,MTSU
+      8 ggb,Missouri,MO
+      8 ggb,Florida,FLA
+      8 ffr,LA Monroe,ULM
+      8 ffe,Utah St.,UTST
+      8 ffe,San Jose St.,SJSU
+      8 ffe,New Mexico,UNM
+      8 ffe,Idaho,IDA
+      8 ffc,Duke,DUKE
+      8 ddc,Delaware,DEL
+      8 ccq,South Florida,SFLA
+      8 cco,Air Force,AFA
+      8 ccn,Kansas,KAN
+      8 ccj,Duke,DUKE
+      8 bbi,UTEP,UTEP
+      8 bbi,Utah,UTAH
+      8 bbi,Hawaii,HAW
+      8 bbi,Colorado St.,COST
+      8 bbf,Wake Forest,WAKE
+      8 bbf,Florida St.,FLST
+      8 bbe,San Jose St.,SJSU
+      8 bbe,Idaho,IDA
+      8 bbb,LA Monroe,ULM
+      8 bba,East. Michigan,EMU
+      8 aar,Mississippi St.,MSST
+      8 aam,California,CAL
+      8 aal,UCLA,UCLA
+      8 aal,Toledo,TOL
+      8 aae,Alabama A&M,AAMU
+      8 aad,Mississippi,MISS
+      8 aad,Michigan St.,MIST
+      8 aad,LSU,LSU
+      8 aab,Colorado St.,COST
+      7 wwq,UNLV,UNLV
+      7 wwl,Illinois,ILL
+      7 wwl,Connecticut,CONN
+      7 wwk,Florida Intl.,FIU
+      7 wwh,Rutgers,RUT
+      7 wwh,Maryland,MD
+      7 wwh,Iowa St.,IAST
+      7 wwc,Stanford,STAN
+      7 wwc,Oregon St.,ORST
+      7 wwb,Oregon,ORE
+      7 wwb,California,CAL
+      7 wwb,Arizona,ARIZ
+      7 wwa,Vanderbilt,VAND
+      7 vvd,Virginia,UVA
+      7 vvd,N.C. State,NCST
+      7 vvb,N.C. State,NCST
+      7 uud,BYU,BYU
+      7 uuc,Colorado,COLO
+      7 uub,Utah,UTAH
+      7 uub,Syracuse,SYRA
+      7 uub,Stanford,STAN
+      7 uub,Colorado,COLO
+      7 uub,California,CAL
+      7 uua,Colorado,COLO
+      7 uca,Louisiana Tech,LT
+      7 ttt,Rice,RICE
+      7 ttt,Notre Dame,ND
+      7 tts,UAB,UAB
+      7 ttp,Wyoming,WYO
+      7 ttl,Tulsa,TULS
+      7 ttl,Southern Miss,USM
+      7 ttj,Texas Tech,TEXT
+      7 ttj,Mississippi St.,MSST
+      7 ttj,Baylor,BAY
+      7 ttj,Arkansas,ARK
+      7 tth,Rice,RICE
+      7 tth,Iowa St.,IAST
+      7 ttd,Vanderbilt,VAND
+      7 ttd,N.C. State,NCST
+      7 ttb,Penn St.,PSU
+      7 ttb,Ball St.,BAST
+      7 tsa,South Alabama,SOAL
+      7 tsa,Idaho,IDA
+      7 tsa,Georgia St.,GAST
+      7 ssw,Tulane,TULA
+      7 ssw,Temple,TEM
+      7 sss,USC,USC
+      7 sso,Virginia,UVA
+      7 ssi,Vanderbilt,VAND
+      7 ssi,Georgia,UGA
+      7 ssi,Florida,FLA
+      7 ssh,UTEP,UTEP
+      7 ssc,Utah St.,UTST
+      7 ssc,San Diego St.,SDSU
+      7 ssc,Colorado St.,COST
+      7 ssb,Fresno St.,FRST
+      7 sbn,Syracuse,SYRA
+      7 sal,Arkansas St.,ARST
+      7 ppb,Purdue,PURD
+      7 ppb,Ohio St.,OHST
+      7 ppb,Northwestern,N.W.
+      7 ppb,Nebraska,NEB
+      7 ppb,Iowa,IOWA
+      7 oof,Stanford,STAN
+      7 oof,BYU,BYU
+      7 ooe,Washington,WASH
+      7 ooe,Kansas St.,KSST
+      7 oob,Arkansas,ARK
+      7 ooa,Temple,TEM
+      7 ooa,Akron,AKR
+      7 nnx,Purdue,PURD
+      7 nnx,Oklahoma,OKLA
+      7 nnw,Nevada,NEV
+      7 nnv,Syracuse,SYRA
+      7 nnv,Rice,RICE
+      7 nnv,Michigan St.,MIST
+      7 nns,Toledo,TOL
+      7 nns,Fresno St.,FRST
+      7 nns,Bowling Green,BGSU
+      7 nns,Army,ARMY
+      7 nnr,Arizona St.,AZST
+      7 nnp,Troy,TROY
+      7 nnp,Middle Tenn. St.,MTSU
+      7 nnl,Miami (FL),MIAF
+      7 nnl,Florida St.,FLST
+      7 nni,New Mexico,UNM
+      7 nni,Idaho,IDA
+      7 nnh,Colorado St.,COST
+      7 nnf,Texas Tech,TEXT
+      7 nnf,Texas St.,TXST
+      7 nnd,Wyoming,WYO
+      7 nnd,Ohio St.,OHST
+      7 nnb,Arkansas St.,ARST
+      7 mms,Arizona St.,AZST
+      7 mmn,Purdue,PURD
+      7 mmm,LA Lafayette,ULL
+      7 mml,Minnesota,MINN
+      7 mml,Florida Atlantic,FAU
+      7 mml,Cent. Michigan,CEMI
+      7 mmk,Northwestern,N.W.
+      7 mmk,Indiana,IND
+      7 mmj,Buffalo,BUF
+      7 mmd,Temple,TEM
+      7 mmd,N.C. State,NCST
+      7 mmc,West Virginia,WVU
+      7 mmc,Rice,RICE
+      7 lli,Auburn,AUB
+      7 llg,Fresno St.,FRST
+      7 kkc,Akron,AKR
+      7 kkb,North Texas,UNT
+      7 jjc,Mississippi,MISS
+      7 iih,Texas Tech,TEXT
+      7 iif,West. Kentucky,WEKY
+      7 iia,W. Michigan,WMU
+      7 iia,Utah St.,UTST
+      7 iia,Colorado St.,COST
+      7 hhc,Utah St.,UTST
+      7 ggc,Virginia Tech,VT
+      7 ggb,Vanderbilt,VAND
+      7 ggb,Nebraska,NEB
+      7 ggb,Mississippi,MISS
+      7 ffr,Middle Tenn. St.,MTSU
+      7 ffe,New Mexico St.,NMSU
+      7 ffe,Mississippi,MISS
+      7 ffc,Boston Coll.,BC
+      7 ffa,Penn St.,PSU
+      7 eea,North Carolina,UNC
+      7 ddf,Navy,NAVY
+      7 cco,Wyoming,WYO
+      7 cco,San Diego St.,SDSU
+      7 ccm,Colgate,COLG
+      7 ccj,Temple,TEM
+      7 ccj,Syracuse,SYRA
+      7 ccj,South Florida,SFLA
+      7 ccg,Northern Illinois,NIU
+      7 ccg,Navy,NAVY
+      7 ccg,Massachusetts,MASS
+      7 ccf,Houston,HOU
+      7 ccd,USC,USC
+      7 bbp,Bowling Green,BGSU
+      7 bbi,TCU,TCU
+      7 bbi,Georgia Tech,GT
+      7 bbh,Buffalo,BUF
+      7 bbf,N.C. State,NCST
+      7 bbe,Virginia Tech,VT
+      7 bbe,Toledo,TOL
+      7 bbe,Southern Miss,USM
+      7 bbe,Hawaii,HAW
+      7 bbb,UCLA,UCLA
+      7 bba,Northern Illinois,NIU
+      7 bba,Indiana,IND
+      7 bba,Army,ARMY
+      7 aaz,Tulane,TULA
+      7 aaz,Memphis,MEMP
+      7 aap,Oregon,ORE
+      7 aap,Florida Atlantic,FAU
+      7 aan,Vanderbilt,VAND
+      7 aan,Texas A&M,TAMU
+      7 aan,Mississippi,MISS
+      7 aam,Utah,UTAH
+      7 aal,Utah,UTAH
+      7 aad,Notre Dame,ND
+      7 aad,Florida,FLA
+      7 aad,Auburn,AUB
+      7 aac,Florida Intl.,FIU
+      7 aab,New Mexico,UNM
+      6 yyb,Pittsburgh,PITT
+      6 wwq,Toledo,TOL
+      6 wwq,Texas,TEX
+      6 wwq,Idaho,IDA
+      6 wwq,BYU,BYU
+      6 wwp,Clemson,CLEM
+      6 wwo,Minnesota,MINN
+      6 wwo,Iowa,IOWA
+      6 wwl,Bowling Green,BGSU
+      6 wwh,Texas,TEX
+      6 wwh,Pittsburgh,PITT
+      6 wwh,Oklahoma St.,OKST
+      6 wwc,UNLV,UNLV
+      6 wwc,Colorado,COLO
+      6 wwb,Colorado,COLO
+      6 wwa,Syracuse,SYRA
+      6 wwa,Maryland,MD
+      6 wwa,Boston Coll.,BC
+      6 vvd,Wake Forest,WAKE
+      6 vvd,Marshall,MARS
+      6 vvb,Maryland,MD
+      6 vvb,Georgia Tech,GT
+      6 uud,Idaho,IDA
+      6 uud,Colorado St.,COST
+      6 uuc,Wyoming,WYO
+      6 uuc,Washington St.,WAST
+      6 uuc,San Diego St.,SDSU
+      6 uuc,Pittsburgh,PITT
+      6 uuc,Arizona,ARIZ
+      6 uub,Minnesota,MINN
+      6 uub,Arizona St.,AZST
+      6 uua,Washington St.,WAST
+      6 uua,Texas,TEX
+      6 uua,Oregon,ORE
+      6 uua,California,CAL
+      6 ttv,South Alabama,SOAL
+      6 ttt,UCF,UCF
+      6 tts,Memphis,MEMP
+      6 tts,Duke,DUKE
+      6 ttp,Temple,TEM
+      6 ttp,Purdue,PURD
+      6 tto,Missouri,MO
+      6 tto,Kansas,KAN
+      6 tto,Colorado,COLO
+      6 tto,Baylor,BAY
+      6 ttl,Rice,RICE
+      6 ttl,New Mexico,UNM
+      6 ttj,Mississippi,MISS
+      6 ttj,Kansas St.,KSST
+      6 ttj,Alabama,ALA
+      6 tth,Oregon St.,ORST
+      6 tth,Oklahoma St.,OKST
+      6 tth,Kansas St.,KSST
+      6 ttd,Mississippi St.,MSST
+      6 ttb,Ohio,OHIO
+      6 ttb,Maryland,MD
+      6 ttb,Buffalo,BUF
+      6 tta,Wyoming,WYO
+      6 tta,West Virginia,WVU
+      6 tta,San Diego St.,SDSU
+      6 tta,Colorado St.,COST
+      6 tsa,New Mexico St.,NMSU
+      6 ssw,West Virginia,WVU
+      6 ssw,Missouri,MO
+      6 sst,Texas St.,TXST
+      6 sss,Washington St.,WAST
+      6 sss,Oregon St.,ORST
+      6 ssq,Kent St.,KEST
+      6 ssi,Michigan,MICH
+      6 ssh,Texas Tech,TEXT
+      6 ssh,TCU,TCU
+      6 ssh,Memphis,MEMP
+      6 ssh,East Carolina,ECU
+      6 ssf,Cent. Michigan,CEMI
+      6 ssc,Stanford,STAN
+      6 ssc,Fresno St.,FRST
+      6 ssb,UNLV,UNLV
+      6 ssb,TCU,TCU
+      6 ssb,New Mexico,UNM
+      6 ssb,Nevada,NEV
+      6 ssa,New Mexico,UNM
+      6 ses,Colorado,COLO
+      6 sbn,Notre Dame,ND
+      6 sbn,Miami (FL),MIAF
+      6 sbn,Clemson,CLEM
+      6 sbn,Ball St.,BAST
+      6 sal,LA Lafayette,ULL
+      6 rrd,Temple,TEM
+      6 rrd,Pittsburgh,PITT
+      6 rrd,Arkansas,ARK
+      6 rrb,Kansas,KAN
+      6 rrb,Baylor,BAY
+      6 rrb,Air Force,AFA
+      6 ppj,Ohio St.,OHST
+      6 ppj,Notre Dame,ND
+      6 ppj,Michigan St.,MIST
+      6 ppj,Indiana,IND
+      6 ppf,Prairie View A&M,PVAM
+      6 ppd,Kentucky,UK
+      6 ppd,Iowa,IOWA
+      6 ppb,Minnesota,MINN
+      6 ppb,Illinois,ILL
+      6 ood,Texas A&M,TAMU
+      6 ooc,Iowa St.,IAST
+      6 ooc,Cincinnati,CINC
+      6 oob,Wisconsin,WIS
+      6 oob,Penn St.,PSU
+      6 ooa,New Mexico St.,NMSU
+      6 ooa,Kent St.,KEST
+      6 ooa,East. Michigan,EMU
+      6 ooa,Bowling Green,BGSU
+      6 nnx,Michigan,MICH
+      6 nnv,Texas Tech,TEXT
+      6 nnv,Michigan,MICH
+      6 nnv,Illinois,ILL
+      6 nnt,Iowa St.,IAST
+      6 nns,Kent St.,KEST
+      6 nns,Cent. Michigan,CEMI
+      6 nns,Buffalo,BUF
+      6 nnn,Wake Forest,WAKE
+      6 nnn,East Carolina,ECU
+      6 nnl,Wake Forest,WAKE
+      6 nnl,Louisville,LOUI
+      6 nnl,East Carolina,ECU
+      6 nnl,Clemson,CLEM
+      6 nnf,New Mexico,UNM
+      6 nnf,Idaho,IDA
+      6 nnf,California,CAL
+      6 nnf,Air Force,AFA
+      6 nne,Louisiana Tech,LT
+      6 nnd,Northwestern,N.W.
+      6 nnb,Auburn,AUB
+      6 nna,West. Kentucky,WEKY
+      6 nna,Troy,TROY
+      6 nna,Louisiana Tech,LT
+      6 nds,Minnesota,MINN
+      6 mmx,Buffalo,BUF
+      6 mmq,Troy,TROY
+      6 mmq,LSU,LSU
+      6 mmq,Auburn,AUB
+      6 mmo,Fresno St.,FRST
+      6 mmo,Arkansas,ARK
+      6 mmn,Michigan St.,MIST
+      6 mmm,Troy,TROY
+      6 mmm,Florida Atlantic,FAU
+      6 mml,Indiana,IND
+      6 mmk,Minnesota,MINN
+      6 mmk,Illinois,ILL
+      6 mmj,Missouri,MO
+      6 mmi,Virginia Tech,VT
+      6 mmi,Pittsburgh,PITT
+      6 mmg,Tulane,TULA
+      6 mmg,Middle Tenn. St.,MTSU
+      6 mmg,Arkansas St.,ARST
+      6 lli,Tennessee,TENN
+      6 lli,North Carolina,UNC
+      6 lli,Mississippi St.,MSST
+      6 llh,South Florida,SFLA
+      6 llh,Florida,FLA
+      6 llh,Arkansas St.,ARST
+      6 llg,Idaho,IDA
+      6 kkd,Louisville,LOUI
+      6 kkc,Rutgers,RUT
+      6 kkc,Buffalo,BUF
+      6 kkc,Army,ARMY
+      6 kkb,TCU,TCU
+      6 kkb,Iowa St.,IAST
+      6 kkb,Colorado,COLO
+      6 iih,Texas,TEX
+      6 iih,TCU,TCU
+      6 iig,Northern Illinois,NIU
+      6 iie,Navy,NAVY
+      6 iid,East. Michigan,EMU
+      6 iic,Indiana,IND
+      6 hhe,Louisiana Tech,LT
+      6 hhc,Tulsa,TULS
+      6 hhc,Louisiana Tech,LT
+      6 hhc,Colorado St.,COST
+      6 hha,Hampton,HAM
+      6 ggc,Wake Forest,WAKE
+      6 ggc,Maryland,MD
+      6 ggc,Georgia,UGA
+      6 ggc,Duke,DUKE
+      6 ggb,Georgia Tech,GT
+      6 ggb,Colorado,COLO
+      6 fli,North Texas,UNT
+      6 fli,Middle Tenn. St.,MTSU
+      6 fli,Akron,AKR
+      6 ffr,UAB,UAB
+      6 ffr,LA Lafayette,ULL
+      6 ffg,Florida,FLA
+      6 ffe,Nebraska,NEB
+      6 ffe,Louisiana Tech,LT
+      6 ffc,Wake Forest,WAKE
+      6 ffc,Virginia,UVA
+      6 ffc,South Florida,SFLA
+      6 ffc,Clemson,CLEM
+      6 eeo,Duke,DUKE
+      6 eef,Kent St.,KEST
+      6 eef,Cent. Michigan,CEMI
+      6 eea,UCF,UCF
+      6 eea,Rice,RICE
+      6 eea,Memphis,MEMP
+      6 eea,LA Lafayette,ULL
+      6 ddf,Virginia Tech,VT
+      6 ddf,Florida Intl.,FIU
+      6 cco,UNLV,UNLV
+      6 ccn,Arizona,ARIZ
+      6 ccj,Tennessee,TENN
+      6 ccg,Iowa,IOWA
+      6 ccg,Ball St.,BAST
+      6 ccf,UTEP,UTEP
+      6 ccf,Southern Miss,USM
+      6 ccd,Colorado,COLO
+      6 ccb,San Jose St.,SJSU
+      6 caa,Northern Illinois,NIU
+      6 bbi,Oregon St.,ORST
+      6 bbh,Troy,TROY
+      6 bbh,Toledo,TOL
+      6 bbh,Miami (OH),MIAO
+      6 bbh,Idaho,IDA
+      6 bbf,Army,ARMY
+      6 bbe,New Mexico,UNM
+      6 bbe,Georgia,UGA
+      6 bbb,Rice,RICE
+      6 aaz,UCF,UCF
+      6 aaz,Troy,TROY
+      6 aaz,Florida Atlantic,FAU
+      6 aas,Middle Tenn. St.,MTSU
+      6 aar,Kentucky,UK
+      6 aar,Alabama,ALA
+      6 aaq,Wake Forest,WAKE
+      6 aaq,Tulane,TULA
+      6 aaq,Duke,DUKE
+      6 aap,West. Kentucky,WEKY
+      6 aao,AR Pine Bluff,UAPB
+      6 aam,Washington St.,WAST
+      6 aam,Oregon,ORE
+      6 aal,Washington,WASH
+      6 aal,Washington St.,WAST
+      6 aal,USC,USC
+      6 aad,Penn St.,PSU
+      6 aad,Missouri,MO
+      6 aac,Tennessee,TENN
+      6 aac,Ohio,OHIO
+      6 aac,Kent St.,KEST
+      6 aab,Notre Dame,ND
+      6 aab,Navy,NAVY
+      5 wwq,San Diego St.,SDSU
+      5 wwo,Ohio St.,OHST
+      5 wwo,Illinois,ILL
+      5 wwl,Notre Dame,ND
+      5 wwl,Northern Illinois,NIU
+      5 wwl,Minnesota,MINN
+      5 wwl,Kent St.,KEST
+      5 wwl,Buffalo,BUF
+      5 wwk,North Texas,UNT
+      5 wwh,South Florida,SFLA
+      5 wwh,Marshall,MARS
+      5 wwc,San Diego St.,SDSU
+      5 wwb,Utah,UTAH
+      5 wwa,North Carolina,UNC
+      5 wwa,Duke,DUKE
+      5 wwa,Clemson,CLEM
+      5 vvd,Georgia Tech,GT
+      5 vvd,Clemson,CLEM
+      5 vvd,Cincinnati,CINC
+      5 vvb,Miami (FL),MIAF
+      5 vvb,Indiana,IND
+      5 uud,New Mexico St.,NMSU
+      5 uud,Hawaii,HAW
+      5 uud,Auburn,AUB
+      5 uuc,Air Force,AFA
+      5 uub,Washington,WASH
+      5 uub,Oregon,ORE
+      5 uub,Notre Dame,ND
+      5 uua,Oregon St.,ORST
+      5 uua,Kansas St.,KSST
+      5 uua,Houston,HOU
+      5 uca,Mississippi,MISS
+      5 uca,Arkansas St.,ARST
+      5 ttv,South Carolina,SCAR
+      5 ttv,LA Lafayette,ULL
+      5 ttv,Clemson,CLEM
+      5 ttt,Tulane,TULA
+      5 ttt,Oklahoma St.,OKST
+      5 tts,SMU,SMU
+      5 ttq,LSU,LSU
+      5 ttp,Syracuse,SYRA
+      5 ttp,Buffalo,BUF
+      5 tto,Texas,TEX
+      5 tto,Texas A&M,TAMU
+      5 tto,TCU,TCU
+      5 tto,Kansas St.,KSST
+      5 ttl,New Mexico St.,NMSU
+      5 ttj,Texas,TEX
+      5 ttj,Oklahoma St.,OKST
+      5 tth,Texas A&M,TAMU
+      5 tth,Nebraska,NEB
+      5 tth,Baylor,BAY
+      5 ttd,Florida,FLA
+      5 tta,Texas,TEX
+      5 tta,Michigan St.,MIST
+      5 tta,Boise St.,BOST
+      5 tta,Air Force,AFA
+      5 ssw,Rutgers,RUT
+      5 ssw,Pittsburgh,PITT
+      5 ssw,Akron,AKR
+      5 ssv,UTSA,UTSA
+      5 ssv,San Jose St.,SJSU
+      5 ssu,Kansas St.,KSST
+      5 ssq,West. Kentucky,WEKY
+      5 ssq,Florida Intl.,FIU
+      5 ssq,Florida,FLA
+      5 ssq,Arizona,ARIZ
+      5 ssp,Wyoming,WYO
+      5 ssp,California,CAL
+      5 sso,UTEP,UTEP
+      5 sso,UAB,UAB
+      5 sso,Nebraska,NEB
+      5 sso,Marshall,MARS
+      5 sso,Louisiana Tech,LT
+      5 ssn,Mississippi,MISS
+      5 ssk,Minnesota,MINN
+      5 ssi,Auburn,AUB
+      5 ssh,UCF,UCF
+      5 ssh,Baylor,BAY
+      5 ssc,Navy,NAVY
+      5 ssc,BYU,BYU
+      5 ssc,Bowling Green,BGSU
+      5 ssb,Missouri,MO
+      5 ssb,Army,ARMY
+      5 ses,New Mexico St.,NMSU
+      5 sbn,Temple,TEM
+      5 sbn,Nevada,NEV
+      5 sbf,Army,ARMY
+      5 sal,N.C. State,NCST
+      5 sal,Kent St.,KEST
+      5 rrd,North Carolina,UNC
+      5 rrd,Florida Intl.,FIU
+      5 rrd,Army,ARMY
+      5 rrc,Duke,DUKE
+      5 rrb,Marshall,MARS
+      5 rrb,Louisiana Tech,LT
+      5 ppj,Rice,RICE
+      5 ppj,Northwestern,N.W.
+      5 ppj,Iowa,IOWA
+      5 ppd,West Virginia,WVU
+      5 ppd,Utah,UTAH
+      5 ppd,Louisville,LOUI
+      5 ppd,Buffalo,BUF
+      5 oof,Boise St.,BOST
+      5 oof,Arizona St.,AZST
+      5 ooe,LSU,LSU
+      5 ooe,Auburn,AUB
+      5 ood,Iowa St.,IAST
+      5 ood,Baylor,BAY
+      5 ooc,UTEP,UTEP
+      5 ooc,TCU,TCU
+      5 ooc,Florida St.,FLST
+      5 oob,Nebraska,NEB
+      5 oob,Iowa,IOWA
+      5 ooa,Penn St.,PSU
+      5 ooa,Ball St.,BAST
+      5 nnv,Vanderbilt,VAND
+      5 nnv,Nebraska,NEB
+      5 nnv,Boston Coll.,BC
+      5 nnt,Iowa,IOWA
+      5 nns,Minnesota,MINN
+      5 nns,Kansas,KAN
+      5 nno,Idaho,IDA
+      5 nno,Fresno St.,FRST
+      5 nnl,Georgia Tech,GT
+      5 nni,UTEP,UTEP
+      5 nni,Utah St.,UTST
+      5 nni,Texas St.,TXST
+      5 nni,San Jose St.,SJSU
+      5 nni,Ohio,OHIO
+      5 nni,Hawaii,HAW
+      5 nnh,UNLV,UNLV
+      5 nnf,Louisiana Tech,LT
+      5 nnf,BYU,BYU
+      5 nne,San Diego St.,SDSU
+      5 nnd,UCLA,UCLA
+      5 nnd,Oklahoma,OKLA
+      5 nnd,Iowa St.,IAST
+      5 nnb,Troy,TROY
+      5 nnb,LA Lafayette,ULL
+      5 nnb,Florida Atlantic,FAU
+      5 nnb,Arkansas,ARK
+      5 nna,SMU,SMU
+      5 nna,San Jose St.,SJSU
+      5 nna,Rutgers,RUT
+      5 nna,Cent. Michigan,CEMI
+      5 nna,Arizona St.,AZST
+      5 mmv,Washington St.,WAST
+      5 mms,Tennessee,TENN
+      5 mms,Oklahoma,OKLA
+      5 mms,Iowa,IOWA
+      5 mms,Baylor,BAY
+      5 mmq,Alabama,ALA
+      5 mmo,Alabama,ALA
+      5 mmn,Texas Tech,TEXT
+      5 mmm,South Alabama,SOAL
+      5 mmm,Purdue,PURD
+      5 mml,Penn St.,PSU
+      5 mmk,Penn St.,PSU
+      5 mmk,Ohio St.,OHST
+      5 mmj,Minnesota,MINN
+      5 mmi,Maryland,MD
+      5 mmi,Clemson,CLEM
+      5 mmf,UTSA,UTSA
+      5 mmf,Kansas,KAN
+      5 mme,Akron,AKR
+      5 mmd,North Carolina,UNC
+      5 mmd,Miami (FL),MIAF
+      5 mmd,Clemson,CLEM
+      5 mmc,Purdue,PURD
+      5 mmc,Memphis,MEMP
+      5 mmc,Houston,HOU
+      5 lli,Vanderbilt,VAND
+      5 lli,Clemson,CLEM
+      5 lli,Arkansas,ARK
+      5 llh,West Virginia,WVU
+      5 llh,Kentucky,UK
+      5 llh,Florida Intl.,FIU
+      5 llh,Connecticut,CONN
+      5 llg,Utah St.,UTST
+      5 llg,Mississippi St.,MSST
+      5 llg,Mississippi,MISS
+      5 llg,Grambling St.,GRAM
+      5 kkd,Tennessee,TENN
+      5 kkd,Mississippi,MISS
+      5 kkb,Syracuse,SYRA
+      5 kkb,Oklahoma,OKLA
+      5 kkb,Miami (FL),MIAF
+      5 kka,Texas Tech,TEXT
+      5 kka,Oklahoma St.,OKST
+      5 kka,Northern Illinois,NIU
+      5 kka,Iowa St.,IAST
+      5 kka,Baylor,BAY
+      5 iih,Iowa,IOWA
+      5 iih,Connecticut,CONN
+      5 iih,Baylor,BAY
+      5 iig,Iowa St.,IAST
+      5 iie,Wisconsin,WIS
+      5 iie,West. Kentucky,WEKY
+      5 iie,Penn St.,PSU
+      5 iie,Ohio St.,OHST
+      5 iie,Northwestern,N.W.
+      5 iia,San Jose St.,SJSU
+      5 iia,BYU,BYU
+      5 hhf,Howard,HOW
+      5 hhe,UCLA,UCLA
+      5 hhe,Southern Miss,HOU
+      5 hhc,San Jose St.,SJSU
+      5 hhc,Nevada,NEV
+      5 hhc,Idaho,IDA
+      5 hhc,Army,ARMY
+      5 ggf,Akron,AKR
+      5 ggc,Kansas,KAN
+      5 ggb,South Carolina,SCAR
+      5 fli,Toledo,TOL
+      5 fli,Texas A&M,TAMU
+      5 fli,South Alabama,SOAL
+      5 fli,Maryland,MD
+      5 fli,Louisville,LOUI
+      5 fli,Arkansas St.,ARST
+      5 ffr,South Alabama,SOAL
+      5 ffl,Cincinnati,CINC
+      5 ffg,South Carolina,SCAR
+      5 ffe,San Diego St.,SDSU
+      5 ffe,Oregon,ORE
+      5 ffe,Hawaii,HAW
+      5 ffe,Colorado St.,COST
+      5 ffa,Texas A&M,TAMU
+      5 eeg,Washington,WASH
+      5 eeg,Idaho,IDA
+      5 eef,Northern Illinois,NIU
+      5 eea,Virginia Tech,VT
+      5 eea,Tulane,TULA
+      5 eea,Navy,NAVY
+      5 eea,Maryland,MD
+      5 eea,Marshall,MARS
+      5 ddf,Maryland,MD
+      5 ddd,Delaware St.,DSU
+      5 ccq,West Virginia,WVU
+      5 ccq,Vanderbilt,VAND
+      5 ccq,Oklahoma,OKLA
+      5 ccq,Maryland,MD
+      5 ccq,Cincinnati,CINC
+      5 cco,Utah St.,UTST
+      5 ccn,Washington,WASH
+      5 ccn,Washington St.,WAST
+      5 ccn,Colorado St.,COST
+      5 ccl,Virginia Tech,VT
+      5 ccj,Toledo,TOL
+      5 ccj,Pittsburgh,PITT
+      5 ccj,Miami (OH),MIAO
+      5 ccg,Northwestern,N.W.
+      5 ccg,Akron,AKR
+      5 ccf,UAB,UAB
+      5 ccf,East Carolina,ECU
+      5 ccf,Buffalo,BUF
+      5 ccd,Washington,WASH
+      5 ccd,Stanford,STAN
+      5 ccd,Oregon St.,ORST
+      5 ccd,Ohio St.,OHST
+      5 cbi,Toledo,TOL
+      5 caa,Wyoming,WYO
+      5 bbp,Northern Illinois,NIU
+      5 bbp,Massachusetts,MASS
+      5 bbp,Connecticut,CONN
+      5 bbp,Ball St.,BAST
+      5 bbi,Texas,TEX
+      5 bbh,Tulsa,TULS
+      5 bbh,Massachusetts,MASS
+      5 bbh,Kent St.,KEST
+      5 bbh,Akron,AKR
+      5 bbf,Syracuse,SYRA
+      5 bbf,Miami (FL),MIAF
+      5 bbf,Maryland,MD
+      5 bbc,Miami (FL),MIAF
+      5 bbb,Texas A&M,TAMU
+      5 bbb,Kansas St.,KSST
+      5 bbb,Kansas,KAN
+      5 bbb,Colorado,COLO
+      5 bba,Ohio,OHIO
+      5 bba,Miami (OH),MIAO
+      5 bba,Clemson,CLEM
+      5 bba,Buffalo,BUF
+      5 aaz,Rice,RICE
+      5 aaz,East Carolina,ECU
+      5 aar,Clemson,CLEM
+      5 aaq,Rutgers,RUT
+      5 aaq,Northern Illinois,NIU
+      5 aaq,Miami (OH),MIAO
+      5 aaq,Kent St.,KEST
+      5 aap,Indiana,IND
+      5 aap,Auburn,AUB
+      5 aan,Georgia,UGA
+      5 aam,Wisconsin,WIS
+      5 aal,Oregon St.,ORST
+      5 aal,Colorado,COLO
+      5 aal,Arizona St.,AZST
+      5 aad,South Carolina,SCAR
+      5 aad,Georgia,UGA
+      5 aac,W. Michigan,WMU
+      5 aac,Indiana,IND
+      5 aac,East. Michigan,EMU
+      5 aab,Wyoming,WYO
+      5 aab,Michigan,MICH
+      4 wwq,Nevada,NEV
+      4 wwq,Air Force,AFA
+      4 wwo,Penn St.,PSU
+      4 wwo,Nebraska,NEB
+      4 wwl,Miami (OH),MIAO
+      4 wwk,Middle Tenn. St.,MTSU
+      4 wwk,LA Monroe,ULM
+      4 wwk,Florida Atlantic,FAU
+      4 wwk,Cent. Michigan,CEMI
+      4 wwi,Marshall,MARS
+      4 wwh,Louisville,LOUI
+      4 wwh,Connecticut,CONN
+      4 wwh,Cincinnati,CINC
+      4 wwe,Texas Tech,TEXT
+      4 wwe,Boston Coll.,BC
+      4 wwc,Washington,WASH
+      4 wwc,Oregon,ORE
+      4 wwc,Oklahoma St.,OKST
+      4 wwb,Stanford,STAN
+      4 wwb,Nebraska,WASH
+      4 wwb,Nebraska,NEB
+      4 wwb,BYU,BYU
+      4 wwb,Boise St.,BOST
+      4 wwa,Virginia,UVA
+      4 wwa,Virginia Tech,VT
+      4 vvd,Pittsburgh,PITT
+      4 vvd,East Carolina,ECU
+      4 vvb,Virginia Tech,VT
+      4 vvb,North Carolina,UNC
+      4 vva,Tennessee,TENN
+      4 vva,Northwestern,N.W.
+      4 vva,Missouri,MO
+      4 vva,Georgia,UGA
+      4 vva,Connecticut,CONN
+      4 uud,Oklahoma,OKLA
+      4 uud,Nevada,NEV
+      4 uud,Fresno St.,FRST
+      4 uuc,Utah St.,UTST
+      4 ttv,LA Monroe,ULM
+      4 ttv,Florida Intl.,FIU
+      4 ttv,Arkansas,ARK
+      4 ttt,Iowa St.,IAST
+      4 ttt,Boise St.,BOST
+      4 ttt,Arkansas,ARK
+      4 tts,Rutgers,RUT
+      4 tts,LA Lafayette,ULL
+      4 tts,Hawaii,HAW
+      4 tts,East Carolina,ECU
+      4 ttp,Utah St.,UTST
+      4 ttp,Ohio St.,OHST
+      4 ttp,Ohio,OHIO
+      4 ttp,Bowling Green,BGSU
+      4 ttp,Arizona,ARIZ
+      4 tto,Oklahoma St.,OKST
+      4 ttl,Wisconsin,WIS
+      4 ttl,South Florida,SFLA
+      4 ttl,SMU,SMU
+      4 ttl,Arkansas,ARK
+      4 tth,Kansas,KAN
+      4 tte,Memphis,MEMP
+      4 ttb,Pittsburgh,PITT
+      4 ttb,Northern Illinois,NIU
+      4 ttb,Louisville,LOUI
+      4 ttb,Kent St.,KEST
+      4 tta,Kansas,KAN
+      4 tsa,Rice,RICE
+      4 tsa,Louisiana Tech,LT
+      4 ssw,Washington,WASH
+      4 ssw,USC,USC
+      4 ssv,Texas Tech,TEXT
+      4 sss,Arizona St.,AZST
+      4 ssq,Arkansas St.,ARST
+      4 sso,West. Kentucky,WEKY
+      4 sso,Louisville,LOUI
+      4 ssj,Indiana,IND
+      4 ssi,Arkansas,ARK
+      4 ssh,Navy,NAVY
+      4 sse,LA Monroe,ULM
+      4 ssc,Louisiana Tech,LT
+      4 ssb,Colorado St.,COST
+      4 ssb,BYU,BYU
+      4 ssb,Boise St.,BOST
+      4 sks,Auburn,AUB
+      4 ses,Stanford,STAN
+      4 ses,Oregon St.,ORST
+      4 sds,Kansas,KAN
+      4 sbn,Pittsburgh,PITT
+      4 sbf,UTEP,UTEP
+      4 sbf,Syracuse,SYRA
+      4 sal,LA Monroe,ULM
+      4 rrd,Tulane,TULA
+      4 rrd,Syracuse,SYRA
+      4 rrb,Texas,TEX
+      4 rrb,Southern Miss,USM
+      4 rrb,SMU,SMU
+      4 rrb,Rice,TULA
+      4 rrb,Houston,HOU
+      4 ppj,Wisconsin,WIS
+      4 ppj,Penn St.,PSU
+      4 ppj,Minnesota,MINN
+      4 ppg,Clemson,CLEM
+      4 ppe,Arizona St.,AZST
+      4 ppb,Virginia,UVA
+      4 oof,TCU,TCU
+      4 ooc,Texas A&M,TAMU
+      4 ooc,Missouri,MO
+      4 oob,Purdue,PURD
+      4 oob,Michigan St.,MIST
+      4 ooa,Troy,TROY
+      4 ooa,Northern Illinois,NIU
+      4 nnz,Colorado St.,COST
+      4 nnx,Wake Forest,WAKE
+      4 nnv,Wisconsin,WIS
+      4 nnv,Iowa,IOWA
+      4 nnt,Wisconsin,WIS
+      4 nns,Toledo,NIU
+      4 nns,Miami (OH),MIAO
+      4 nns,Illinois,ILL
+      4 nnr,UNLV,UNLV
+      4 nnp,Tulsa,TULS
+      4 nnp,Houston,HOU
+      4 nno,Northern Illinois,NIU
+      4 nnn,Virginia,UVA
+      4 nnn,UCF,UCF
+      4 nnl,Tennessee,TENN
+      4 nnk,W. Michigan,WMU
+      4 nnk,Tulsa,TULS
+      4 nni,Minnesota,MINN
+      4 nni,Georgia,UGA
+      4 nni,Fresno St.,FRST
+      4 nnh,Hawaii,HAW
+      4 nng,Pittsburgh,PITT
+      4 nnf,Utah St.,UTST
+      4 nnf,San Jose St.,SJSU
+      4 nnf,Oregon,ORE
+      4 nnf,Boston Coll.,BC
+      4 nne,Wisconsin,WIS
+      4 nne,Utah St.,UTST
+      4 nne,Hawaii,HAW
+      4 nne,Colorado St.,COST
+      4 nne,Air Force,AFA
+      4 nnd,Penn St.,PSU
+      4 nnd,Michigan St.,MIST
+      4 nnd,Michigan,MICH
+      4 nnd,Iowa,IOWA
+      4 nnb,North Texas,UNT
+      4 nna,Wake Forest,WAKE
+      4 nna,South Carolina,SCAR
+      4 nna,Army,ARMY
+      4 nds,Colorado St.,COST
+      4 nan,West Virginia,WVU
+      4 mms,UCF,UCF
+      4 mms,Texas Tech,TEXT
+      4 mms,Kansas St.,KSST
+      4 mms,Kansas,KAN
+      4 mmq,UAB,UAB
+      4 mmq,Northwestern,N.W.
+      4 mmq,Arkansas,ARK
+      4 mmo,Kentucky,UK
+      4 mmo,Georgia,UGA
+      4 mmo,Auburn,AUB
+      4 mmn,USC,USC
+      4 mmn,UNLV,UNLV
+      4 mmn,Middle Tenn. St.,MTSU
+      4 mmm,Miami (OH),MIAO
+      4 mmk,Nebraska,NEB
+      4 mmk,Iowa,IOWA
+      4 mmj,Temple,TEM
+      4 mmj,Florida,FLA
+      4 mmj,Cincinnati,CINC
+      4 mmj,Boise St.,BOST
+      4 mmi,Ohio St.,OHST
+      4 mmg,UTEP,UTEP
+      4 mmg,SMU,SMU
+      4 mmf,Middle Tenn. St.,MTSU
+      4 mme,W. Michigan,WMU
+      4 mme,Boston Coll.,BC
+      4 mmd,Notre Dame,ND
+      4 mmc,Louisville,LOUI
+      4 mmc,Bowling Green,BGSU
+      4 llh,Southern Miss,USM
+      4 llh,Cincinnati,CINC
+      4 llg,Southern Miss,USM
+      4 llg,Nevada,NEV
+      4 llg,Hawaii,HAW
+      4 lle,Wake Forest,WAKE
+      4 lle,N.C. State,NCST
+      4 lle,Ball St.,BAST
+      4 kkd,Florida,FLA
+      4 kkc,Toledo,TOL
+      4 kkc,Kentucky,UK
+      4 kkb,Texas,TEX
+      4 kkb,Missouri,MO
+      4 kka,Georgia Tech,GT
+      4 jjc,Arkansas,ARK
+      4 jjb,Virginia Tech,VT
+      4 iih,Tulsa,TULS
+      4 iig,Purdue,PURD
+      4 iig,Michigan St.,MIST
+      4 iig,Arizona,ARIZ
+      4 iie,Iowa,IOWA
+      4 iie,Ball St.,BAST
+      4 iic,Ohio St.,OHST
+      4 iic,Fresno St.,FRST
+      4 iib,Washington St.,WAST
+      4 iib,Air Force,AFA
+      4 iia,Virginia,UVA
+      4 iia,New Mexico St.,NMSU
+      4 iia,Fresno St.,FRST
+      4 iia,Bowling Green,BGSU
+      4 hhe,Texas Tech,TEXT
+      4 hhe,East Carolina,ECU
+      4 hhc,Washington,WASH
+      4 hhc,UNLV,UNLV
+      4 hhc,Colorado,COLO
+      4 ggh,Alabama,ALA
+      4 ggb,Tennessee,TENN
+      4 fli,West. Kentucky,WEKY
+      4 fli,UCF,UCF
+      4 ffr,Texas,TEX
+      4 ffr,North Texas,UNT
+      4 ffr,Navy,NAVY
+      4 ffr,Georgia,UGA
+      4 ffr,Auburn,AUB
+      4 ffr,Arkansas St.,ARST
+      4 ffe,Tulsa,TULS
+      4 ffe,SMU,SMU
+      4 ffe,Boise St.,BOST
+      4 ffc,Georgia Tech,GT
+      4 ffc,Florida,FLA
+      4 ffb,South Florida,SFLA
+      4 ffb,Oklahoma,OKLA
+      4 ffa,South Carolina,SCAR
+      4 ffa,Georgia,UGA
+      4 eeg,Nevada,NEV
+      4 eef,Vanderbilt,VAND
+      4 eef,Toledo,TOL
+      4 eef,Purdue,PURD
+      4 eef,Ohio St.,OHST
+      4 eef,Buffalo,BUF
+      4 eed,W. Michigan,WMU
+      4 eea,UTEP,UTEP
+      4 ddf,Virginia,UVA
+      4 ddf,North Carolina,UNC
+      4 ddf,Boston Coll.,BC
+      4 ccz,Kentucky,UK
+      4 ccq,W. Michigan,WMU
+      4 ccq,Temple,TEM
+      4 ccq,Rutgers,RUT
+      4 ccq,Pittsburgh,PITT
+      4 ccq,Louisville,LOUI
+      4 ccq,Buffalo,BUF
+      4 cco,UTEP,UTEP
+      4 cco,Utah,UTAH
+      4 cco,San Jose St.,SJSU
+      4 ccn,Utah,UTAH
+      4 ccl,South Carolina,SCAR
+      4 ccl,North Carolina,UNC
+      4 ccl,Georgia Tech,GT
+      4 ccg,Virginia Tech,VT
+      4 ccf,SMU,SMU
+      4 ccf,Ohio St.,OHST
+      4 ccf,Kansas St.,KSST
+      4 ccd,Utah,UTAH
+      4 ccd,Oregon,ORE
+      4 ccd,Arizona,ARIZ
+      4 cas,South Florida,SFLA
+      4 bbi,San Diego St.,SDSU
+      4 bbh,W. Michigan,WMU
+      4 bbh,Temple,TEM
+      4 bbh,Michigan,MICH
+      4 bbh,Cent. Michigan,CEMI
+      4 bbf,Northwestern,N.W.
+      4 bbf,Georgia Tech,GT
+      4 bbf,Duke,DUKE
+      4 bbe,Michigan St.,MIST
+      4 bbb,Oklahoma,OKLA
+      4 bbb,Iowa St.,IAST
+      4 bba,W. Michigan,WMU
+      4 aaz,UAB,midfield
+      4 aaz,Tulsa,TULS
+      4 aaz,Tennessee,TENN
+      4 aaz,Ohio St.,OHST
+      4 aaz,Mississippi St.,MSST
+      4 aar,Vanderbilt,VAND
+      4 aaq,SMU,SMU
+      4 aaq,Navy,NAVY
+      4 aaq,Ball St.,BAST
+      4 aaq,Army,TULA
+      4 aap,Nebraska,NEB
+      4 aap,Navy,NAVY
+      4 aap,LA Monroe,ULM
+      4 aap,Illinois,ILL
+      4 aan,LSU,LSU
+      4 aam,Washington,WASH
+      4 aam,USC,USC
+      4 aam,Missouri,MO
+      4 aad,Mississippi St.,MSST
+      4 aac,Toledo,TOL
+      4 aac,Ball St.,BAST
+      4 aab,Oklahoma,OKLA
+      4 aab,Boise St.,BOST
+      3 wwq,Fresno St.,FRST
+      3 wwq,Colorado St.,COST
+      3 wwq,Bowling Green,BGSU
+      3 wwq,Boise St.,BOST
+      3 wwp,Ohio,OHIO
+      3 wwo,Wisconsin,MICH
+      3 wwo,TCU,TCU
+      3 wwo,Stanford,STAN
+      3 wwn,Maryland,MD
+      3 wwl,Michigan St.,MIST
+      3 wwl,Michigan,MICH
+      3 wwl,East. Michigan,EMU
+      3 wwk,Nebraska,NEB
+      3 wwj,Purdue,PURD
+      3 wwi,Georgia Tech,GT
+      3 wwh,Texas Tech,TEXT
+      3 wwh,LSU,LSU
+      3 wwe,Fresno St.,FRST
+      3 wwe,BYU,BYU
+      3 wwc,SMU,SMU
+      3 wwb,Oregon St.,ORST
+      3 wwa,Stanford,STAN
+      3 wwa,N.C. State,NCST
+      3 vve,Virginia Military,AKR
+      3 vve,Army,ARMY
+      3 vve,Akron,AKR
+      3 vvd,Duke,DUKE
+      3 vvb,USC,USC
+      3 vvb,Florida St.,FLST
+      3 vva,Florida,FLA
+      3 vva,Arkansas,ARK
+      3 uud,Wisconsin,WIS
+      3 uud,Nevada,UTST
+      3 uud,Boise St.,BOST
+      3 uuc,Washington,WASH
+      3 uuc,USC,USC
+      3 uuc,UCLA,UCLA
+      3 uuc,California,CAL
+      3 uua,Utah,UTAH
+      3 uua,Oregon,UCLA
+      3 uua,Arizona,ARIZ
+      3 uca,Tulsa,TULS
+      3 ttv,Navy,NAVY
+      3 ttt,Oklahoma,OKLA
+      3 tts,Marshall,MARS
+      3 ttq,Kent St.,TOW
+      3 tto,Texas Tech,BAY
+      3 ttl,UAB,UAB
+      3 ttl,Mississippi,MISS
+      3 ttl,Marshall,MARS
+      3 ttl,East Carolina,ECU
+      3 ttg,Oregon,ORE
+      3 ttf,Air Force,AFA
+      3 tte,Mississippi St.,MSST
+      3 ttd,LSU,LSU
+      3 ttd,Alabama,ALA
+      3 ttb,Connecticut,CONN
+      3 ttb,Bowling Green,BGSU
+      3 tta,TCU,SMU
+      3 ssv,Wyoming,WYO
+      3 ssv,New Mexico,UNM
+      3 ssu,Kansas St.,MOST
+      3 ssq,Ohio,OHIO
+      3 ssq,Mississippi,MISS
+      3 sso,South Carolina,SCAR
+      3 sso,Rice,RICE
+      3 ssl,New Mexico,UNM
+      3 ssk,Wisconsin,WIS
+      3 ssk,Air Force,AFA
+      3 ssj,Cent. Michigan,CEMI
+      3 ssi,Tennessee,TENN
+      3 ssi,Mississippi St.,MSST
+      3 ssi,LSU,LSU
+      3 ssi,Florida St.,FLST
+      3 ssi,Florida,SCAR
+      3 ssf,Ball St.,BAST
+      3 ssc,Wisconsin,WIS
+      3 ssc,Nevada,NEV
+      3 ssc,Alabama,ALA
+      3 ssb,Washington,WASH
+      3 ssa,Texas A&M,TAMU
+      3 sbn,West Virginia,WVU
+      3 sbn,Rutgers,RUT
+      3 sbn,Connecticut,CONN
+      3 sbf,South Florida,SFLA
+      3 sal,North Texas,UNT
+      3 rrd,West Virginia,WVU
+      3 rrd,Virginia Tech,VT
+      3 rrb,UCF,UCF
+      3 rrb,Memphis,MEMP
+      3 rra,Syracuse,SYRA
+      3 rra,Rhode Island,BUF
+      3 ppj,Oklahoma St.,OKST
+      3 ppe,TCU,TCU
+      3 ppd,Mississippi,MISS
+      3 ppd,Cincinnati,CINC
+      3 ppb,Temple,TEM
+      3 oof,Oregon,ORE
+      3 ood,Oklahoma St.,ULL
+      3 oob,Miami (FL),MIAF
+      3 ooa,Rutgers,RUT
+      3 ooa,Ohio St.,OHST
+      3 nnx,Stanford,STAN
+      3 nnx,Pittsburgh,PITT
+      3 nnw,Texas Tech,TEXT
+      3 nnw,Air Force,AFA
+      3 nnv,Minnesota,MINN
+      3 nnv,Army,ARMY
+      3 nns,Iowa St.,IAST
+      3 nnr,Arizona,ARIZ
+      3 nnp,LSU,LSU
+      3 nnp,LA Lafayette,ULL
+      3 nnp,Kansas St.,KSST
+      3 nnp,Arkansas St.,ARST
+      3 nnn,Vanderbilt,VAND
+      3 nnn,Connecticut,CONN
+      3 nnn,Cincinnati,CINC
+      3 nnn,Boston Coll.,BC
+      3 nnl,Rutgers,RUT
+      3 nnk,LA Lafayette,ULL
+      3 nni,New Mexico St.,KAN
+      3 nni,Nevada,NEV
+      3 nni,Kansas,KAN
+      3 nnh,Wyoming,WYO
+      3 nnh,Texas Tech,TEXT
+      3 nng,Toledo,TOL
+      3 nnf,Boise St.,BOST
+      3 nne,Wyoming,WYO
+      3 nne,Utah,UTAH
+      3 nne,TCU,TCU
+      3 nne,New Mexico,UNM
+      3 nne,Hawaii,UNLV
+      3 nnd,Texas A&M,TAMU
+      3 nnb,TCU,TCU
+      3 nnb,Iowa,IOWA
+      3 nna,San Diego St.,SDSU
+      3 nna,Notre Dame,ND
+      3 nna,Maryland,MD
+      3 nan,Ohio,OHIO
+      3 nac,Duke,DUKE
+      3 mmx,Maryland,MD
+      3 mmx,Bowling Green,BGSU
+      3 mmx,Akron,AKR
+      3 mmv,Utah,UTAH
+      3 mms,Nebraska,NEB
+      3 mms,Iowa St.,IAST
+      3 mmq,Georgia,UGA
+      3 mmq,Florida,FLA
+      3 mmn,Northwestern,N.W.
+      3 mmn,Nebraska,NEB
+      3 mmm,Arkansas St.,ARST
+      3 mml,Wisconsin,WIS
+      3 mml,Ohio St.,OHST
+      3 mml,Notre Dame,ND
+      3 mmk,Michigan St.,MIST
+      3 mmk,Alabama,ALA
+      3 mmj,Toledo,TOL
+      3 mmj,Ohio St.,OHST
+      3 mmj,Ohio,OHIO
+      3 mmi,Kansas St.,KSST
+      3 mmi,Florida St.,FLST
+      3 mmg,Duke,DUKE
+      3 mmf,Missouri,MO
+      3 mme,Miami (OH),MIAO
+      3 mmd,Wake Forest,WAKE
+      3 mmd,Georgia Tech,GT
+      3 mmc,Tulsa,TULS
+      3 mmc,SMU,SMU
+      3 mma,Syracuse,SYRA
+      3 mma,Pittsburgh,PITT
+      3 llh,Oregon St.,ORST
+      3 llh,Louisville,FLA
+      3 llg,Louisiana Tech,NMSU
+      3 llg,Boise St.,LT
+      3 kkd,West. Kentucky,WEKY
+      3 kkd,Missouri,MO
+      3 kkd,Mississippi St.,MSST
+      3 kkc,Temple,TEM
+      3 kkc,Ohio,OHIO
+      3 kkc,Boston Coll.,BC
+      3 kkc,Arkansas St.,ARST
+      3 kka,West Virginia,WVU
+      3 kka,Southern Miss,USM
+      3 kka,Kansas St.,KSST
+      3 jjc,Kentucky,UK
+      3 jjb,West Virginia,WVU
+      3 jjb,North Carolina,UNC
+      3 jja,Mississippi St.,MSST
+      3 iih,Oklahoma St.,OKST
+      3 iih,Oklahoma,OKLA
+      3 iih,Missouri,MO
+      3 iif,Indiana,IND
+      3 iie,North Texas,IND
+      3 iic,Northwestern,ILL
+      3 iic,Missouri,MO
+      3 iic,Arizona St.,AZST
+      3 iib,Utah St.,UTST
+      3 iia,LSU,LSU
+      3 iia,Louisiana Tech,IDA
+      3 iia,Hawaii,HAW
+      3 hhc,San Diego St.,SDSU
+      3 ggb,Mississippi St.,MSST
+      3 gag,Tennessee,TENN
+      3 fli,Pittsburgh,PITT
+      3 fli,LA Monroe,ULM
+      3 fli,Florida Intl.,MTSU
+      3 fli,Duke,DUKE
+      3 ffe,Fresno St.,SJSU
+      3 ffe,California,CAL
+      3 ffc,Florida St.,MIAF
+      3 ffa,Auburn,AUB
+      3 ffa,Alabama,ALA
+      3 eeo,Vanderbilt,VAND
+      3 eeg,Washington St.,WAST
+      3 eef,Virginia,UVA
+      3 eef,Penn St.,PSU
+      3 eef,Ohio,OHIO
+      3 eed,Iowa,IOWA
+      3 ddf,Stanford,STAN
+      3 ddf,Miami (FL),MIAF
+      3 ddc,Navy,NAVY
+      3 ccq,Michigan,MICH
+      3 cco,New Mexico,UNM
+      3 cco,Nevada,NEV
+      3 cco,Boise St.,BOST
+      3 ccn,USC,USC
+      3 ccn,Oregon,ORE
+      3 ccn,Oklahoma,OKLA
+      3 ccn,Nebraska,NEB
+      3 ccn,Fresno St.,FRST
+      3 ccn,Arizona St.,AZST
+      3 ccl,N.C. State,NCST
+      3 cck,South Carolina,SCAR
+      3 cck,N.C. State,NCST
+      3 ccj,West Virginia,WVU
+      3 ccj,N.C. State,NCST
+      3 ccj,Fresno St.,FRST
+      3 ccg,Temple,TEM
+      3 ccg,N.C. State,NCST
+      3 ccg,Kentucky,UK
+      3 ccg,Kent St.,KEST
+      3 ccf,Georgia,UGA
+      3 ccf,BYU,BYU
+      3 ccd,UCLA,UCLA
+      3 ccb,Hawaii,HAW
+      3 caa,San Diego St.,SDSU
+      3 caa,Fresno St.,FRST
+      3 bbp,Pittsburgh,PITT
+      3 bbp,Miami (OH),MIAO
+      3 bbp,Georgia,UGA
+      3 bbp,East. Michigan,EMU
+      3 bbp,Baylor,BAY
+      3 bbi,Notre Dame,ND
+      3 bbi,Mississippi,MISS
+      3 bbi,Florida St.,FLST
+      3 bbi,Air Force,AFA
+      3 bbh,West Virginia,WVU
+      3 bbf,Virginia Tech,VT
+      3 bbf,Clemson,CLEM
+      3 bbb,TCU,TCU
+      3 bbb,Oklahoma,BAY
+      3 bba,UCF,UCF
+      3 bba,Purdue,PURD
+      3 bba,Ball St.,CEMI
+      3 aaz,Southern Miss,UAB
+      3 aaz,South Carolina,SCAR
+      3 aaz,Marshall,MARS
+      3 aaz,Houston,HOU
+      3 aas,West. Kentucky,WEKY
+      3 aar,LSU,LSU
+      3 aar,Arkansas,ARK
+      3 aaq,Vanderbilt,VAND
+      3 aaq,Temple,TEM
+      3 aaq,Air Force,AFA
+      3 aap,Virginia Tech,VT
+      3 aap,Arkansas St.,IND
+      3 aan,Alabama,ALA
+      3 aam,UCLA,UCLA
+      3 aam,Illinois,ILL
+      3 aal,Oklahoma St.,OKST
+      3 aak,Virginia Tech,VT
+      3 aah,Mississippi St.,MSST
+      3 aaf,Alabama St.,ALST
+      3 aae,Auburn,AUB
+      3 aac,Kentucky,UK
+      3 aac,Cincinnati,CINC
+      3 aac,Cent. Michigan,CEMI
+      3 aab,San Diego St.,SDSU
+      3 aab,Georgia Tech,GT
+      3 aab,Fresno St.,FRST
+      2 yyb,Penn St.,PSU
+      2 yyb,Michigan St.,MIST
+      2 wwq,Utah St.,WYO
+      2 wwq,UNLV,WYO
+      2 wwp,South Carolina,SCAR
+      2 wwo,Oregon St.,ORST
+      2 wwn,Virginia,UVA
+      2 wwn,North Carolina,UNC
+      2 wwl,W. Michigan,BUF
+      2 wwl,Toledo,WMU
+      2 wwk,West. Kentucky,LSU
+      2 wwk,South Florida,SFLA
+      2 wwj,Purdue,WIU
+      2 wwj,Iowa St.,IAST
+      2 wwh,West Virginia,TEX
+      2 wwh,Texas,WVU
+      2 wwc,California,CAL
+      2 wwc,BYU,BYU
+      2 wwc,Arizona St.,AZST
+      2 wwb,Oregon,WASH
+      2 wwb,LSU,LSU
+      2 wwa,Florida St.,FLST
+      2 waa,Wagner,WAGN
+      2 waa,Florida Atlantic,FAU
+      2 vve,Navy,NAVY
+      2 vvd,Georgia Tech,midfield
+      2 vvb,Virginia,midfield
+      2 vvb,Boston Coll.,BC
+      2 vva,South Carolina,SCAR
+      2 uud,San Diego St.,SDSU
+      2 uuc,Oregon St.,ORST
+      2 uuc,Notre Dame,ND
+      2 uuc,Boise St.,BOST
+      2 uuc,Arizona St.,AZST
+      2 uub,USC,SYRA
+      2 uub,USC,ARIZ
+      2 uub,Stanford,USC
+      2 uub,Oregon St.,ORST
+      2 uub,Georgia Tech,GT
+      2 uua,Washington,WASH
+      2 uua,UCLA,WAST
+      2 uua,UCLA,TEX
+      2 uua,UCLA,midfield
+      2 ttv,West. Kentucky,WEKY
+      2 ttv,West. Kentucky,TROY
+      2 ttv,UAB,TROY
+      2 ttv,Arkansas St.,ARST
+      2 tts,Rice,RICE
+      2 tts,Army,ARMY
+      2 ttq,Maryland,MD
+      2 ttq,Indiana,TOW
+      2 ttq,Indiana,IND
+      2 ttp,Toledo,EMU
+      2 ttp,Boise St.,BOST
+      2 ttn,Connecticut,CONN
+      2 ttl,Wisconsin,UTEP
+      2 ttl,UTEP,HOU
+      2 ttl,UCF,UCF
+      2 ttl,Houston,UTEP
+      2 tth,Missouri,MO
+      2 tth,Kansas St.,TEX
+      2 ttg,Iowa,IOWA
+      2 ttg,Arkansas,ARK
+      2 tte,Tennessee,TENN
+      2 ttd,Vanderbilt,TENN
+      2 ttd,Kentucky,UK
+      2 ttd,Arkansas,ARK
+      2 ttb,Temple,KEST
+      2 ttb,Temple,ARMY
+      2 ttb,Miami (OH),MIAO
+      2 ttb,Army,TEM
+      2 tta,TCU,BAY
+      2 tta,Oklahoma St.,OKST
+      2 ssw,Washington,SYRA
+      2 ssw,Syracuse,midfield
+      2 ssw,Rutgers,SYRA
+      2 ssw,Minnesota,MINN
+      2 ssw,Louisville,LOUI
+      2 ssw,Connecticut,SYRA
+      2 ssw,Connecticut,CONN
+      2 ssv,UTSA,TXST
+      2 ssv,Utah St.,UTST
+      2 ssv,Navy,NAVY
+      2 ssu,Oregon,ORE
+      2 ssu,Louisville,LOUI
+      2 ssu,Arkansas,ARK
+      2 sst,Texas A&M,TAMU
+      2 ssq,Georgia,UGA
+      2 ssp,Utah St.,UTST
+      2 sso,Southern Miss,NAVY
+      2 ssn,Miami (OH),MIAO
+      2 ssn,Illinois,ILL
+      2 ssk,UCF,UCF
+      2 ssk,Northwestern,N.W.
+      2 ssk,Minnesota,SDAK
+      2 ssj,Texas A&M,TAMU
+      2 ssj,Georgia Tech,GT
+      2 ssh,Tulsa,TULS
+      2 ssh,Texas A&M,TAMU
+      2 ssh,Southern Miss,USM
+      2 ssh,Houston,HOU
+      2 sse,Tulane,SLU
+      2 ssc,Utah,UTAH
+      2 ssc,Hawaii,HAW
+      2 ssb,San Diego St.,midfield
+      2 ssb,Michigan,MICH
+      2 sks,Kentucky,UK
+      2 sks,Florida St.,FLST
+      2 sds,Nebraska,NEB
+      2 sds,Illinois,ILL
+      2 sbn,South Florida,SYRA
+      2 sbn,Florida,FLA
+      2 sbf,Buffalo,BUF
+      2 sal,Mississippi St.,MSST
+      2 sal,Hawaii,HAW
+      2 rrd,Louisville,LOUI
+      2 rrd,Connecticut,RUT
+      2 rrd,Connecticut,CONN
+      2 rrb,Louisiana Tech,RICE
+      2 rra,Bowling Green,BGSU
+      2 ppj,Purdue,WIS
+      2 ppj,Michigan,PURD
+      2 ppj,Michigan,MICH
+      2 ppg,Wake Forest,WAKE
+      2 ppg,California,CAL
+      2 ppf,Southern Miss,USM
+      2 ppd,Rutgers,RUT
+      2 ppb,Wisconsin,WIS
+      2 ppb,Penn St.,MINN
+      2 ppb,Penn St.,IOWA
+      2 oof,Utah,UTAH
+      2 oof,California,CAL
+      2 ooe,Washington St.,ORE
+      2 ooe,LSU,ORE
+      2 ood,Baylor,OKST
+      2 ood,Arizona,OKST
+      2 oob,Indiana,OHST
+      2 ooa,Ohio,BUF
+      2 ooa,Miami (OH),OHIO
+      2 nnz,Michigan St.,MIST
+      2 nnx,Notre Dame,midfield
+      2 nnw,SMU,SMU
+      2 nnw,LSU,LSU
+      2 nnv,Northwestern,TEXT
+      2 nnv,Northwestern,IND
+      2 nnv,Iowa,N.W.
+      2 nns,Northern Illinois,WMU
+      2 nns,Northern Illinois,midfield
+      2 nns,Minnesota,NIU
+      2 nns,Kansas,NIU
+      2 nns,Florida St.,FLST
+      2 nnp,North Texas,FIU
+      2 nnp,Middle Tenn. St.,UNT
+      2 nnp,LA Monroe,UNT
+      2 nnp,Florida Intl.,FIU
+      2 nnp,Clemson,CLEM
+      2 nno,San Diego St.,NDAK
+      2 nnn,Vanderbilt,NCST
+      2 nnl,Virginia Tech,VT
+      2 nnl,Virginia Tech,UNC
+      2 nnl,Clemson,UNC
+      2 nnk,South Alabama,SOAL
+      2 nnk,Oregon St.,ORST
+      2 nni,UTEP,NMSU
+      2 nni,Utah St.,NMSU
+      2 nni,New Mexico St.,UNM
+      2 nni,New Mexico St.,IDA
+      2 nni,BYU,BYU
+      2 nni,Auburn,AUB
+      2 nnh,San Diego St.,SDSU
+      2 nnh,Nevada,NEV
+      2 nnh,BYU,BYU
+      2 nnh,Air Force,UNM
+      2 nng,Minnesota,MINN
+      2 nnf,UNLV,NEV
+      2 nnf,Hawaii,NEV
+      2 nne,West Virginia,WVU
+      2 nne,Washington St.,WAST
+      2 nne,UNLV,SDSU
+      2 nne,Colorado St.,UNLV
+      2 nne,Boise St.,BOST
+      2 nnd,Michigan,NEB
+      2 nnb,LA Monroe,ARST
+      2 nnb,LA Lafayette,ULM
+      2 nna,Penn St.,PSU
+      2 nna,Navy,ECU
+      2 nds,Kansas,KAN
+      2 mmz,Louisville,LOUI
+      2 mmz,Kent St.,KEST
+      2 mmz,Florida St.,FLST
+      2 mmu,Tennessee,TENN
+      2 mms,South Carolina,SCAR
+      2 mms,Florida,FLA
+      2 mms,Baylor,MO
+      2 mmo,Tennessee,TENN
+      2 mmo,Mississippi St.,MSST
+      2 mmn,Minnesota,MTSU
+      2 mmn,Iowa,IOWA
+      2 mmm,North Texas,UNT
+      2 mmm,Mississippi St.,MSST
+      2 mmm,Middle Tenn. St.,MEMP
+      2 mmm,Middle Tenn. St.,ARST
+      2 mmm,LA Monroe,ULM
+      2 mmm,Florida Intl.,MTSU
+      2 mmm,Arkansas St.,MTSU
+      2 mml,Nebraska,NEB
+      2 mmj,Kent St.,KEST
+      2 mmj,Buffalo,MIAO
+      2 mmi,South Florida,SFLA
+      2 mmi,Notre Dame,ND
+      2 mmg,UCF,UCF
+      2 mmg,Southern Miss,USM
+      2 mmg,Rice,RICE
+      2 mmg,Mississippi St.,MSST
+      2 mmg,Memphis,MARS
+      2 mmf,Middle Tenn. St.,MCN
+      2 mmf,LSU,MCN
+      2 mmf,LSU,LSU
+      2 mme,Vanderbilt,VAND
+      2 mmd,Florida St.,FLST
+      2 mmc,West Virginia,MARS
+      2 mmc,UCF,UCF
+      2 mmc,UAB,MARS
+      2 mmc,Purdue,MARS
+      2 mmc,Ohio St.,OHST
+      2 mma,Pittsburgh,MAIN
+      2 mma,Boston Coll.,BC
+      2 lli,Texas A&M,LSU
+      2 lli,Alabama,ALA
+      2 llh,Oregon St.,LOUI
+      2 llh,Louisville,RUT
+      2 llh,Louisville,PITT
+      2 llh,Louisville,midfield
+      2 llg,Texas A&M,TAMU
+      2 llg,Louisiana Tech,UVA
+      2 llg,Louisiana Tech,TAMU
+      2 llg,Louisiana Tech,HOU
+      2 kkd,Vanderbilt,VAND
+      2 kkd,Tennessee,UK
+      2 kkd,LSU,LSU
+      2 kkd,Georgia,UK
+      2 kkd,Georgia,UGA
+      2 kkd,Arkansas,ARK
+      2 kkc,W. Michigan,WMU
+      2 kkc,Northern Illinois,NIU
+      2 kkc,Alabama,ALA
+      2 kkb,Kansas St.,BAY
+      2 kka,Texas,TEX
+      2 kka,Texas A&M,TAMU
+      2 kka,Nebraska,NEB
+      2 kka,Missouri,MO
+      2 iih,Colorado,COLO
+      2 iig,Penn St.,PSU
+      2 iif,Cincinnati,CINC
+      2 iie,Wisconsin,IND
+      2 iie,Purdue,IND
+      2 iid,Northwestern,N.W.
+      2 iic,Wisconsin,WIS
+      2 iic,Purdue,PURD
+      2 iic,Minnesota,MINN
+      2 iic,Michigan St.,MIST
+      2 iib,Nebraska,NEB
+      2 iib,Georgia,UGA
+      2 iib,BYU,BYU
+      2 iia,Texas A&M,TAMU
+      2 iia,San Jose St.,IDA
+      2 iia,Nebraska,NEB
+      2 iia,Idaho,midfield
+      2 hhe,Houston,MARS
+      2 hhc,Washington,HAW
+      2 hhc,USC,USC
+      2 hhc,Hawaii,midfield
+      2 hhc,Hawaii,FRST
+      2 hhc,Boise St.,BOST
+      2 hhc,Air Force,AFA
+      2 hha,Cent. Michigan,HAM
+      2 ggh,Georgia,UGA
+      2 ggf,Pittsburgh,PITT
+      2 ggf,Pittsburgh,GAWE
+      2 ggd,LA Monroe,ULM
+      2 ggc,Virginia,UVA
+      2 ggc,Virginia,midfield
+      2 ggc,Georgia,GT
+      2 ggb,LSU,LSU
+      2 ggb,Georgia,UK
+      2 ggb,Florida,UGA
+      2 gag,Alabama,ALA
+      2 fli,Troy,FIU
+      2 fli,Florida Intl.,TROY
+      2 ffr,Florida,FLA
+      2 ffr,Alabama,ALA
+      2 ffl,Connecticut,CONN
+      2 ffg,Clemson,CLEM
+      2 ffe,Fresno St.,BOST
+      2 ffa,LSU,LSU
+      2 ffa,Florida,FLST
+      2 eef,Michigan St.,MIST
+      2 eef,Michigan,MICH
+      2 eef,East. Michigan,WMU
+      2 eef,Bowling Green,BGSU
+      2 eee,Purdue,PURD
+      2 eee,Louisville,LOUI
+      2 eed,Northwestern,N.W.
+      2 eed,Northwestern,EIU
+      2 eea,UCF,ECU
+      2 eea,Houston,HOU
+      2 eea,East Carolina,UAB
+      2 ddf,Duke,NAVY
+      2 ccz,Hawaii,HAW
+      2 ccz,Florida St.,FLST
+      2 ccq,Rutgers,CONN
+      2 cco,TCU,TCU
+      2 cco,Miami (OH),MIAO
+      2 cco,Colorado St.,UTEP
+      2 cco,Colorado St.,midfield
+      2 ccn,UCLA,UCLA
+      2 ccn,Ohio St.,OHST
+      2 ccn,Ohio St.,COLO
+      2 ccn,Missouri,MO
+      2 ccn,California,CAL
+      2 ccm,Syracuse,SYRA
+      2 ccl,Florida St.,CLEM
+      2 ccj,Rutgers,RUT
+      2 ccj,Pittsburgh,midfield
+      2 ccg,W. Michigan,WMU
+      2 ccg,W. Michigan,CEMI
+      2 ccg,Michigan St.,MIST
+      2 ccf,UCF,UAB
+      2 ccf,UCF,MEMP
+      2 ccf,Florida Intl.,FIU
+      2 ccb,California,CAL
+      2 cbi,Georgia,CCU
+      2 cas,Auburn,CHAT
+      2 cas,Auburn,AUB
+      2 bbp,Buffalo,TENN
+      2 bbp,Akron,AKR
+      2 bbi,Utah St.,UTST
+      2 bbi,Utah St.,BYU
+      2 bbi,San Jose St.,SJSU
+      2 bbi,Boise St.,BOST
+      2 bbh,Florida,FLA
+      2 bbf,UCF,UCF
+      2 bbf,Notre Dame,ND
+      2 bbe,Boise St.,SDSU
+      2 bbb,Kansas St.,BAY
+      2 bba,South Florida,SFLA
+      2 bba,Oklahoma,OKLA
+      2 aaz,SMU,SMU
+      2 aaz,Mississippi St.,UAB
+      2 aaz,Florida,UAB
+      2 aas,Wisconsin,WIS
+      2 aas,Virginia Tech,VT
+      2 aas,Memphis,MEMP
+      2 aas,Cincinnati,CINC
+      2 aas,Cincinnati,AUSP
+      2 aar,Georgia,UGA
+      2 aaq,Notre Dame,ND
+      2 aap,LA Lafayette,ARST
+      2 aao,UTEP,UTEP
+      2 aan,South Carolina,ARK
+      2 aam,Arizona St.,UCLA
+      2 aak,Florida,FLA
+      2 aak,East Carolina,ECU
+      2 aaf,East. Michigan,EMU
+      2 aac,Miami (OH),MIAO
+      2 aac,Buffalo,AKR
+      2 aac,Akron,midfield
+      2 aab,TCU,TCU
+      1 wwq,Wyoming,midfield
+      1 wwq,Wyoming,BGSU
+      1 wwq,Utah St.,UTST
+      1 wwq,TCU,TCU
+      1 wwq,Nevada,WYO
+      1 wwq,Colorado St.,WYO
+      1 wwq,Bowling Green,midfield
+      1 wwq,Air Force,WYO
+      1 wwp,Ohio,WOFF
+      1 wwo,Wisconsin,PSU
+      1 wwo,Wisconsin,MIST
+      1 wwo,Wisconsin,midfield
+      1 wwo,TCU,WIS
+      1 wwo,Purdue,WIS
+      1 wwo,Nebraska,WIS
+      1 wwn,William & Mary,UNC
+      1 wwl,W. Michigan,TOL
+      1 wwl,W. Michigan,midfield
+      1 wwl,W. Michigan,BGSU
+      1 wwl,W. Michigan,BAST
+      1 wwk,West. Kentucky,UNT
+      1 wwk,West. Kentucky,ULM
+      1 wwk,West. Kentucky,ULL
+      1 wwk,South Florida,WEKY
+      1 wwk,North Texas,WEKY
+      1 wwk,LSU,LSU
+      1 wwk,LA Monroe,WEKY
+      1 wwk,Kentucky,WEKY
+      1 wwk,Alabama,ALA
+      1 wwj,Missouri,MO
+      1 wwi,N.C. State,WCU
+      1 wwi,N.C. State,NCST
+      1 wwi,Alabama,ALA
+      1 wwh,West Virginia,OKST
+      1 wwh,West Virginia,NCST
+      1 wwh,West Virginia,midfield
+      1 wwh,West Virginia,MARS
+      1 wwh,Syracuse,midfield
+      1 wwh,South Florida,WVU
+      1 wwh,Oklahoma St.,WVU
+      1 wwh,N.C. State,WVU
+      1 wwh,N.C. State,NCST
+      1 wwh,Cincinnati,WVU
+      1 wwe,Texas Tech,WEBR
+      1 wwe,Boston Coll.,WEBR
+      1 wwc,Washington St.,UNLV
+      1 wwc,Washington St.,UCLA
+      1 wwc,Washington St.,ORST
+      1 wwc,Washington St.,ORE
+      1 wwc,Washington St.,BYU
+      1 wwc,Stanford,WAST
+      1 wwc,SMU,WAST
+      1 wwc,Oregon,WAST
+      1 wwc,Arizona St.,WAST
+      1 wwb,Washington,ORST
+      1 wwb,Washington,ORE
+      1 wwb,Washington,NEB
+      1 wwb,Washington,midfield
+      1 wwb,Washington,CAL
+      1 wwb,USC,WASH
+      1 wwb,Stanford,WASH
+      1 wwb,Colorado,WASH
+      1 wwb,Boise St.,WASH
+      1 wwa,Wake Forest,UVA
+      1 wwa,Wake Forest,MD
+      1 wwa,Stanford,WAKE
+      1 wwa,Notre Dame,ND
+      1 vve,Virginia,UVA
+      1 vvd,Virginia Tech,midfield
+      1 vvd,Virginia Tech,MIAF
+      1 vvd,Virginia Tech,BC
+      1 vvd,Miami (FL),VT
+      1 vvb,Virginia Tech,UVA
+      1 vvb,Virginia,MD
+      1 vvb,Virginia,IND
+      1 vvb,Virginia,GT
+      1 vvb,TCU,UVA
+      1 vvb,TCU,TCU
+      1 vvb,Miami (FL),UVA
+      1 vvb,Georgia Tech,UVA
+      1 vvb,Duke,UVA
+      1 vvb,Boston Coll.,UVA
+      1 vva,Vanderbilt,UK
+      1 vva,Vanderbilt,MO
+      1 vva,Vanderbilt,midfield
+      1 vva,Vanderbilt,CONN
+      1 vva,Vanderbilt,ARK
+      1 vva,Kentucky,VAND
+      1 vva,Florida,VAND
+      1 vva,Connecticut,VAND
+      1 vva,Arkansas,VAND
+      1 vva,Alabama,ALA
+      1 uud,Utah St.,LT
+      1 uud,Utah St.,FRST
+      1 uud,Utah St.,COST
+      1 uud,Utah St.,AUB
+      1 uud,Oklahoma,UTST
+      1 uud,Auburn,midfield
+      1 uuc,Utah,UNM
+      1 uuc,Utah,CAL
+      1 uuc,Utah,BYU
+      1 uuc,Utah,ARIZ
+      1 uub,USC,UCLA
+      1 uub,USC,ORST
+      1 uub,USC,MINN
+      1 uub,USC,midfield
+      1 uub,USC,HAW
+      1 uub,USC,AZST
+      1 uub,Oregon,USC
+      1 uub,Arizona,USC
+      1 uua,USC,USC
+      1 uua,UCLA,CAL
+      1 uua,UCLA,AZST
+      1 uua,Kansas St.,UCLA
+      1 uua,Houston,UCLA
+      1 uca,Louisiana Tech,UCA
+      1 ttv,Troy,UNT
+      1 ttv,Troy,UAB
+      1 ttv,Troy,OKST
+      1 ttv,Troy,NAVY
+      1 ttv,Troy,MTSU
+      1 ttv,Troy,FAU
+      1 ttv,Troy,ARST
+      1 ttv,Tennessee,TROY
+      1 ttv,South Carolina,TROY
+      1 ttv,North Texas,TROY
+      1 ttv,Middle Tenn. St.,TROY
+      1 ttt,Tulsa,UAB
+      1 ttt,Tulsa,TULA
+      1 ttt,Tulsa,RICE
+      1 ttt,Tulsa,IAST
+      1 ttt,Tulsa,ECU
+      1 ttt,Marshall,TULS
+      1 tts,UTEP,TULA
+      1 tts,Tulane,HAW
+      1 tts,Marshall,TULA
+      1 ttq,Maryland,TOW
+      1 ttq,Kent St.,KEST
+      1 ttp,W. Michigan,TOL
+      1 ttp,W. Michigan,midfield
+      1 ttp,Toledo,PURD
+      1 ttp,Toledo,NIU
+      1 ttp,Toledo,BAST
+      1 ttp,Toledo,ARIZ
+      1 ttp,Boise St.,TOL
+      1 ttp,Arizona,TOL
+      1 tto,Texas Tech,UNM
+      1 tto,Texas Tech,TAMU
+      1 tto,Texas Tech,OKLA
+      1 tto,Texas Tech,midfield
+      1 tto,Texas Tech,KAN
+      1 tto,Texas St.,TEXT
+      1 tto,Kansas,TEXT
+      1 tto,Kansas,midfield
+      1 ttn,North Texas,UNT
+      1 ttn,North Texas,midfield
+      1 ttn,Connecticut,TXSO
+      1 ttl,UTEP,UNM
+      1 ttl,UTEP,SFLA
+      1 ttl,UTEP,RICE
+      1 ttl,UTEP,NMSU
+      1 ttl,UTEP,midfield
+      1 ttl,UCF,UTEP
+      1 ttl,Tulsa,UTEP
+      1 ttl,South Florida,midfield
+      1 ttl,Rice,UTEP
+      1 ttj,Texas Tech,TAMU
+      1 ttj,Texas A&M,TEXT
+      1 ttj,Texas A&M,TEX
+      1 ttj,Texas A&M,LT
+      1 ttj,Texas A&M,ARK
+      1 ttj,Oklahoma,TAMU
+      1 ttj,Oklahoma St.,TAMU
+      1 tth,Texas,NEB
+      1 tth,Texas,MO
+      1 tth,Texas,midfield
+      1 tth,Texas,KSST
+      1 tth,Texas,IAST
+      1 tth,Oklahoma,TEX
+      1 tth,Oklahoma St.,TEX
+      1 ttg,Tennessee Tech,TCU
+      1 ttg,TCU,TCU
+      1 ttf,Air Force,TNST
+      1 tte,Northern Illinois,UTM
+      1 tte,Northern Illinois,NIU
+      1 ttd,Tennessee,VAND
+      1 ttd,Mississippi St.,TENN
+      1 ttd,Georgia,TENN
+      1 ttd,Georgia,midfield
+      1 ttb,Temple,PITT
+      1 ttb,Temple,NIU
+      1 ttb,Temple,MIAO
+      1 ttb,Temple,MD
+      1 ttb,Temple,BUF
+      1 ttb,Temple,AKR
+      1 tta,TCU,UNM
+      1 tta,TCU,TEX
+      1 tta,SMU,TCU
+      1 tta,Boise St.,midfield
+      1 tta,Baylor,TCU
+      1 tta,Baylor,midfield
+      1 tsa,UTSA,IDA
+      1 tsa,UTSA,GAST
+      1 tsa,South Alabama,midfield
+      1 tsa,Louisiana Tech,UTSA
+      1 ssx,Oklahoma St.,SSU
+      1 ssx,Florida St.,FLST
+      1 ssw,West Virginia,SYRA
+      1 ssw,Syracuse,TULA
+      1 ssw,Minnesota,SYRA
+      1 ssw,Louisville,SYRA
+      1 ssw,Cincinnati,SYRA
+      1 ssw,Akron,midfield
+      1 ssv,New Mexico,TXST
+      1 ssv,Navy,TXST
+      1 ssu,Kansas St.,midfield
+      1 sst,Texas St.,SFA
+      1 sst,Texas A&M,SFA
+      1 sst,SMU,SMU
+      1 sst,Baylor,midfield
+      1 sss,Washington St.,midfield
+      1 sss,Stanford,ORE
+      1 sss,Stanford,ND
+      1 sss,Oregon St.,STAN
+      1 sss,Duke,STAN
+      1 ssq,Oklahoma St.,ULL
+      1 ssq,Ohio,ULL
+      1 ssq,North Texas,ULL
+      1 ssq,Mississippi,ULL
+      1 ssq,LA Lafayette,UNT
+      1 ssq,LA Lafayette,TROY
+      1 ssq,Florida Intl.,ULL
+      1 ssq,Florida Intl.,midfield
+      1 ssq,Florida Atlantic,ULL
+      1 ssq,Arizona,ULL
+      1 sso,UCF,USM
+      1 sso,Tulsa,USM
+      1 sso,Tulane,USM
+      1 sso,Southern Miss,WEKY
+      1 sso,Southern Miss,UTEP
+      1 sso,Southern Miss,UCF
+      1 sso,Southern Miss,UAB
+      1 sso,Southern Miss,TULS
+      1 sso,Southern Miss,TULA
+      1 sso,Southern Miss,LT
+      1 sso,Southern Miss,HOU
+      1 sso,SMU,USM
+      1 sso,SMU,SMU
+      1 sso,Rice,USM
+      1 sso,Memphis,USM
+      1 ssn,Southern Ill.,MISS
+      1 ssn,Southern Ill.,ILL
+      1 ssn,Miami (OH),midfield
+      1 ssl,Southern,UNM
+      1 ssk,Air Force,SDAK
+      1 ssj,Texas A&M,SCST
+      1 ssj,Georgia Tech,SCST
+      1 ssj,Arizona,ARIZ
+      1 ssi,Vanderbilt,SCAR
+      1 ssi,South Carolina,UGA
+      1 ssi,South Carolina,TENN
+      1 ssi,South Carolina,ARK
+      1 ssi,LSU,SCAR
+      1 ssi,Georgia,SCAR
+      1 ssi,Clemson,SCAR
+      1 ssi,Arkansas,SCAR
+      1 ssh,UCF,SMU
+      1 ssh,Texas A&M,SMU
+      1 ssh,SMU,TULA
+      1 ssh,SMU,TEXT
+      1 ssh,SMU,midfield
+      1 ssh,SMU,HOU
+      1 ssh,Memphis,midfield
+      1 ssh,East Carolina,SMU
+      1 ssf,Purdue,PURD
+      1 sse,UAB,UAB
+      1 sse,SE Louisiana,TULA
+      1 sse,SE Louisiana,midfield
+      1 sse,Missouri,SLU
+      1 sse,Missouri,MO
+      1 ssc,Utah St.,SJSU
+      1 ssc,Stanford,SJSU
+      1 ssc,San Jose St.,UTAH
+      1 ssc,San Jose St.,SDSU
+      1 ssc,San Jose St.,FRST
+      1 ssc,Louisiana Tech,SJSU
+      1 ssc,Idaho,SJSU
+      1 ssc,Bowling Green,SJSU
+      1 ssb,Wyoming,SDSU
+      1 ssb,San Diego St.,WASH
+      1 ssb,San Diego St.,UNM
+      1 ssa,Sam Houston St.,TAMU
+      1 ssa,Sam Houston St.,BAY
+      1 sks,Auburn,SAM
+      1 sbn,South Florida,WVU
+      1 sbn,South Florida,ND
+      1 sbn,South Florida,LOUI
+      1 sbn,South Florida,CONN
+      1 sbn,South Florida,CLEM
+      1 sbn,Nevada,SFLA
+      1 sbn,Louisville,SFLA
+      1 sbn,Florida,SFLA
+      1 sbn,Clemson,SFLA
+      1 sbf,UTEP,STBR
+      1 sal,N.C. State,SOAL
+      1 sal,Mississippi St.,midfield
+      1 sal,LA Monroe,midfield
+      1 sal,LA Lafayette,SOAL
+      1 rrd,South Florida,RUT
+      1 rrd,Rutgers,TULA
+      1 rrd,Rutgers,SFLA
+      1 rrd,Rutgers,CINC
+      1 rrd,North Carolina,RUT
+      1 rrd,Cincinnati,RUT
+      1 rrc,Virginia,RICH
+      1 rrb,UTEP,RICE
+      1 rrb,UTEP,midfield
+      1 rrb,Tulsa,RICE
+      1 rrb,Rice,UTEP
+      1 rrb,Rice,UNT
+      1 rrb,Rice,MEMP
+      1 rrb,Rice,HOU
+      1 rrb,Rice,AFA
+      1 rrb,Northwestern,RICE
+      1 rrb,Northwestern,N.W.
+      1 rrb,Kansas,RICE
+      1 rrb,Houston,RICE
+      1 rrb,Baylor,RICE
+      1 rra,Buffalo,BUF
+      1 ppj,Purdue,PSU
+      1 ppj,Purdue,MIST
+      1 ppj,Purdue,midfield
+      1 ppj,Purdue,IND
+      1 ppj,Purdue,ILL
+      1 ppj,Penn St.,PURD
+      1 ppj,Notre Dame,PURD
+      1 ppj,Minnesota,PURD
+      1 ppj,Indiana,PURD
+      1 ppg,Wake Forest,PRES
+      1 ppg,Vanderbilt,VAND
+      1 ppg,Georgia Tech,GT
+      1 ppg,Clemson,PRES
+      1 ppe,Washington,WASH
+      1 ppe,Washington,POST
+      1 ppe,Washington,midfield
+      1 ppe,Oregon,ORE
+      1 ppe,Arizona St.,POST
+      1 ppd,Utah,PITT
+      1 ppd,South Florida,PITT
+      1 ppd,Rutgers,PITT
+      1 ppd,Mississippi,PITT
+      1 ppb,Wisconsin,PSU
+      1 ppb,Penn St.,N.W.
+      1 ppb,Northwestern,PSU
+      1 ppb,Alabama,PSU
+      1 ppb,Alabama,ALA
+      1 oof,Wisconsin,WIS
+      1 oof,Washington St.,ORST
+      1 oof,TCU,ORST
+      1 oof,Oregon St.,UCLA
+      1 oof,Oregon St.,CAL
+      1 oof,Oregon St.,ARIZ
+      1 ooe,USC,ORE
+      1 ooe,Tennessee,ORE
+      1 ooe,Oregon,WAST
+      1 ooe,Oregon,WASH
+      1 ooe,Oregon,STAN
+      1 ooe,Oregon,ORST
+      1 ooe,Oregon,CAL
+      1 ooe,Oregon,ARIZ
+      1 ooe,California,ORE
+      1 ooe,Arizona,ORE
+      1 ood,Tulsa,OKST
+      1 ood,LA Lafayette,OKST
+      1 ood,Kansas St.,OKST
+      1 ood,Iowa St.,midfield
+      1 ooc,Oklahoma,TAMU
+      1 ooc,Oklahoma,OKST
+      1 ooc,Oklahoma,MO
+      1 ooc,Oklahoma,CINC
+      1 ooc,Kansas St.,OKLA
+      1 ooc,Baylor,OKLA
+      1 oob,Ohio St.,PSU
+      1 oob,Ohio St.,MINN
+      1 ooa,Rutgers,OHIO
+      1 ooa,Ohio,NMSU
+      1 ooa,Ohio,NIU
+      1 ooa,Ohio,BGSU
+      1 ooa,Ohio,AKR
+      1 ooa,Ball St.,OHIO
+      1 nnz,Utah,UTAH
+      1 nnx,Wake Forest,ND
+      1 nnx,Notre Dame,MICH
+      1 nnx,Notre Dame,BC
+      1 nnw,Air Force,NWST
+      1 nnv,Wisconsin,N.W.
+      1 nnv,Northwestern,WIS
+      1 nnv,Northwestern,MINN
+      1 nnv,Michigan,N.W.
+      1 nns,W. Michigan,NIU
+      1 nns,Northern Illinois,TOL
+      1 nns,Northern Illinois,MINN
+      1 nns,Northern Illinois,FRST
+      1 nns,Northern Illinois,CEMI
+      1 nns,Northern Illinois,BUF
+      1 nns,Northern Illinois,BAST
+      1 nns,Northern Illinois,AKR
+      1 nns,Kent St.,NIU
+      1 nns,Illinois,NIU
+      1 nns,Fresno St.,NIU
+      1 nns,Cent. Michigan,NIU
+      1 nns,Bowling Green,NIU
+      1 nns,Ball St.,NIU
+      1 nnp,North Texas,WEKY
+      1 nnp,North Texas,ULM
+      1 nnp,North Texas,CLEM
+      1 nnp,Florida Intl.,UNT
+      1 nnp,Clemson,UNT
+      1 nnp,Army,ARMY
+      1 nnp,Alabama,ALA
+      1 nno,Northern Illinois,NDAK
+      1 nnn,Virginia,midfield
+      1 nnn,North Carolina,NCST
+      1 nnn,N.C. State,UNC
+      1 nnn,N.C. State,midfield
+      1 nnn,N.C. State,MIAF
+      1 nnn,N.C. State,MD
+      1 nnn,N.C. State,CLEM
+      1 nnn,Maryland,NCST
+      1 nnn,Florida St.,FLST
+      1 nnn,Clemson,NCST
+      1 nnl,Virginia,UNC
+      1 nnl,Rutgers,UNC
+      1 nnl,North Carolina,UVA
+      1 nnl,North Carolina,ECU
+      1 nnl,N.C. State,NCST
+      1 nnl,Florida St.,UNC
+      1 nnl,Duke,UNC
+      1 nnl,Duke,midfield
+      1 nnk,W. Michigan,NICH
+      1 nnk,San Diego St.,SDSU
+      1 nnk,Nicholls St.,SDSU
+      1 nnk,LA Lafayette,NICH
+      1 nni,New Mexico St.,TXST
+      1 nni,New Mexico St.,OHIO
+      1 nni,New Mexico St.,LT
+      1 nni,New Mexico St.,HAW
+      1 nni,Minnesota,midfield
+      1 nni,Louisiana Tech,LT
+      1 nni,Hawaii,NMSU
+      1 nnh,Texas,TEX
+      1 nnh,Texas Tech,UNM
+      1 nnh,TCU,UNM
+      1 nnh,TCU,TCU
+      1 nnh,Oregon,ORE
+      1 nnh,New Mexico,NMSU
+      1 nnh,New Mexico,HAW
+      1 nnh,New Mexico,AFA
+      1 nnh,Boise St.,BOST
+      1 nnh,Arkansas,ARK
+      1 nng,Toledo,UNH
+      1 nng,New Hampshire,TOL
+      1 nng,Minnesota,UNH
+      1 nnf,Nevada,UNLV
+      1 nnf,Nevada,midfield
+      1 nnf,Nevada,IDA
+      1 nnf,Nevada,HAW
+      1 nnf,Nevada,BC
+      1 nnf,Nevada,ARIZ
+      1 nnf,Louisiana Tech,NEV
+      1 nnf,California,NEV
+      1 nnf,Boston Coll.,NEV
+      1 nne,West Virginia,UNLV
+      1 nne,Utah St.,UNLV
+      1 nne,UNLV,midfield
+      1 nne,UNLV,BYU
+      1 nne,San Diego St.,UNLV
+      1 nne,Nevada,NEV
+      1 nne,Idaho,UNLV
+      1 nne,Idaho,IDA
+      1 nne,BYU,UNLV
+      1 nne,BYU,BYU
+      1 nnd,UCLA,NEB
+      1 nnd,Nebraska,WYO
+      1 nnd,Nebraska,WASH
+      1 nnd,Nebraska,UCLA
+      1 nnd,Nebraska,OKST
+      1 nnd,Kansas St.,NEB
+      1 nnd,Iowa St.,NEB
+      1 nnb,West. Kentucky,ULM
+      1 nnb,LSU,ULM
+      1 nnb,LA Monroe,WEKY
+      1 nnb,LA Monroe,ULL
+      1 nnb,LA Monroe,TROY
+      1 nnb,Iowa,ULM
+      1 nnb,Florida St.,FLST
+      1 nnb,Auburn,midfield
+      1 nnb,Arkansas St.,ULM
+      1 nna,West. Kentucky,NAVY
+      1 nna,Wake Forest,NAVY
+      1 nna,Notre Dame,NAVY
+      1 nna,Louisiana Tech,NAVY
+      1 nna,East Carolina,NAVY
+      1 nna,Cent. Michigan,NAVY
+      1 nds,North Dakota St.,COST
+      1 nds,Kansas,NDSU
+      1 nan,Rutgers,RUT
+      1 nac,Rutgers,RUT
+      1 nac,N.C. Central,DUKE
+      1 mmz,Murray St.,FLST
+      1 mmx,Morgan St.,BUF
+      1 mmx,Morgan St.,AKR
+      1 mmx,Buffalo,MORG
+      1 mmx,Bowling Green,MORG
+      1 mmx,Akron,MORG
+      1 mmv,Montana St.,WAST
+      1 mmu,Tennessee,MONT
+      1 mms,South Carolina,midfield
+      1 mms,Missouri,KAN
+      1 mmq,Northwestern,MSST
+      1 mmq,Mississippi St.,HOU
+      1 mmq,Mississippi,midfield
+      1 mmq,Auburn,midfield
+      1 mmo,Vanderbilt,VAND
+      1 mmo,Vanderbilt,MISS
+      1 mmo,Tennessee,MISS
+      1 mmo,Mississippi St.,MISS
+      1 mmo,Mississippi,midfield
+      1 mmo,Mississippi,LSU
+      1 mmo,Fresno St.,midfield
+      1 mmn,Purdue,MINN
+      1 mmn,Northwestern,MINN
+      1 mmn,Minnesota,TEXT
+      1 mmn,Minnesota,MIST
+      1 mmn,Minnesota,ILL
+      1 mmn,Michigan St.,MINN
+      1 mmn,Michigan,MICH
+      1 mmn,Iowa,midfield
+      1 mmn,Illinois,MINN
+      1 mmm,Tennessee,midfield
+      1 mmm,Middle Tenn. St.,GT
+      1 mmm,Middle Tenn. St.,FIU
+      1 mmm,Memphis,MTSU
+      1 mmm,LA Monroe,MTSU
+      1 mmm,Georgia Tech,MTSU
+      1 mmm,Florida Atlantic,MTSU
+      1 mml,Michigan St.,PSU
+      1 mml,Michigan St.,OHST
+      1 mml,Michigan St.,NEB
+      1 mml,Michigan St.,midfield
+      1 mml,Michigan St.,FAU
+      1 mml,Iowa,MIST
+      1 mml,Indiana,MIST
+      1 mmk,Penn St.,MICH
+      1 mmk,Michigan,PURD
+      1 mmk,Michigan,ILL
+      1 mmj,Toledo,MIAO
+      1 mmj,Florida,MIAO
+      1 mmj,Cincinnati,MIAO
+      1 mmj,Cent. Michigan,MIAO
+      1 mmi,Ohio St.,MIAF
+      1 mmi,Miami (FL),UVA
+      1 mmi,Miami (FL),midfield
+      1 mmi,Miami (FL),KSST
+      1 mmi,Miami (FL),GT
+      1 mmi,Miami (FL),DUKE
+      1 mmi,Florida St.,MIAF
+      1 mmi,Duke,MIAF
+      1 mmi,Clemson,MIAF
+      1 mmg,Rice,MEMP
+      1 mmg,Memphis,DUKE
+      1 mmg,Marshall,midfield
+      1 mmg,Louisville,LOUI
+      1 mmg,Duke,MEMP
+      1 mmg,Arkansas St.,midfield
+      1 mmf,McNeese St.,MTSU
+      1 mme,Vanderbilt,MASS
+      1 mme,Northern Illinois,NIU
+      1 mme,Northern Illinois,MASS
+      1 mme,Michigan,MASS
+      1 mme,Miami (OH),MASS
+      1 mme,Massachusetts,MIAO
+      1 mme,Connecticut,CONN
+      1 mme,Akron,MASS
+      1 mmd,Virginia,MD
+      1 mmd,Maryland,UVA
+      1 mmd,Maryland,UNC
+      1 mmd,Georgia Tech,MD
+      1 mmd,Florida St.,MD
+      1 mmc,UCF,MARS
+      1 mmc,UAB,midfield
+      1 mmc,Tulsa,MARS
+      1 mmc,Southern Miss,midfield
+      1 mmc,Southern Miss,MARS
+      1 mmc,SMU,MARS
+      1 mmc,Ohio St.,MARS
+      1 mmc,Ohio,OHIO
+      1 mmc,Ohio,MARS
+      1 mmc,Marshall,USM
+      1 mmc,Marshall,TULS
+      1 mmc,Marshall,OHST
+      1 mmc,Marshall,midfield
+      1 mmc,Marshall,MEMP
+      1 mmc,Marshall,LOUI
+      1 mmc,Bowling Green,MARS
+      1 mma,Maine,SYRA
+      1 lli,Tennessee,LSU
+      1 lli,Mississippi,midfield
+      1 lli,LSU,VAND
+      1 lli,LSU,TAMU
+      1 lli,LSU,ARK
+      1 llh,West Virginia,LOUI
+      1 llh,South Florida,LOUI
+      1 llh,Southern Miss,LOUI
+      1 llh,North Carolina,UNC
+      1 llh,North Carolina,LOUI
+      1 llh,Louisville,WVU
+      1 llh,Louisville,SFLA
+      1 llh,Connecticut,midfield
+      1 llh,Cincinnati,LOUI
+      1 llg,Texas St.,LT
+      1 llg,Texas A&M,midfield
+      1 llg,San Jose St.,LT
+      1 llg,Nevada,LT
+      1 llg,Louisiana Tech,TXST
+      1 llg,Louisiana Tech,SJSU
+      1 llg,Louisiana Tech,midfield
+      1 llg,Louisiana Tech,IDA
+      1 llg,Louisiana Tech,FRST
+      1 llg,Louisiana Tech,BOST
+      1 llg,Boise St.,BOST
+      1 lle,N.C. State,LIB
+      1 lle,Liberty,midfield
+      1 lle,Ball St.,LIB
+      1 lab,LA Lafayette,ULL
+      1 kkd,Vanderbilt,UK
+      1 kkd,South Carolina,SCAR
+      1 kkd,Louisville,UK
+      1 kkd,Kentucky,SCAR
+      1 kkd,Kentucky,midfield
+      1 kkc,Penn St.,PSU
+      1 kkc,Northern Illinois,KEST
+      1 kkc,Kent St.,UK
+      1 kkc,Kent St.,midfield
+      1 kkc,Kent St.,MIAO
+      1 kkc,Kansas St.,KSST
+      1 kkc,Boston Coll.,KEST
+      1 kkc,Arkansas St.,KEST
+      1 kkb,Missouri,KSST
+      1 kkb,Kansas St.,WVU
+      1 kkb,Kansas St.,UNT
+      1 kkb,Kansas St.,TCU
+      1 kkb,Kansas St.,OKST
+      1 kkb,Kansas St.,midfield
+      1 kka,Texas A&M,midfield
+      1 kka,Southern Miss,KAN
+      1 kka,Oklahoma,OKLA
+      1 kka,Kansas,USM
+      1 kka,Kansas St.,KAN
+      1 kka,Kansas,midfield
+      1 kka,Iowa St.,KAN
+      1 jjc,Florida,FLA
+      1 iih,Texas Tech,midfield
+      1 iih,TCU,IAST
+      1 iih,Oklahoma,IAST
+      1 iih,Missouri,midfield
+      1 iih,Iowa St.,OKLA
+      1 iih,Iowa St.,MO
+      1 iih,Iowa St.,IOWA
+      1 iih,Colorado,IAST
+      1 iig,Purdue,IOWA
+      1 iig,Nebraska,NEB
+      1 iig,Nebraska,IOWA
+      1 iig,Michigan,IOWA
+      1 iig,Iowa St.,IOWA
+      1 iig,Iowa,PURD
+      1 iig,Iowa,MIST
+      1 iig,Iowa,midfield
+      1 iif,West. Kentucky,INST
+      1 iif,Penn St.,PSU
+      1 iie,West. Kentucky,midfield
+      1 iie,North Texas,UNT
+      1 iie,Michigan St.,MIST
+      1 iie,Michigan St.,IND
+      1 iie,Iowa,IND
+      1 iie,Indiana,WEKY
+      1 iie,Indiana,MIST
+      1 iie,Indiana,midfield
+      1 iie,Illinois,IND
+      1 iie,Ball St.,IND
+      1 iic,Wisconsin,ILL
+      1 iic,Purdue,ILL
+      1 iic,Ohio St.,ILL
+      1 iic,Michigan,ILL
+      1 iic,Illinois,MICH
+      1 iic,Fresno St.,ILL
+      1 iib,Washington St.,IDST
+      1 iib,Utah St.,IDST
+      1 iib,Idaho St.,midfield
+      1 iia,Utah St.,IDA
+      1 iia,Texas St.,TXST
+      1 iia,Texas St.,IDA
+      1 iia,North Carolina,UNC
+      1 iia,New Mexico St.,IDA
+      1 iia,Nevada,NEV
+      1 iia,Nebraska,IDA
+      1 iia,Idaho,UTST
+      1 iia,Idaho,SJSU
+      1 iia,Idaho,NEV
+      1 iia,Fresno St.,IDA
+      1 hhf,Rutgers,RUT
+      1 hhe,UCLA,HOU
+      1 hhe,UAB,HOU
+      1 hhe,SMU,HOU
+      1 hhe,Rice,midfield
+      1 hhe,North Texas,HOU
+      1 hhe,Houston,UAB
+      1 hhc,Utah St.,HAW
+      1 hhc,UNLV,HAW
+      1 hhc,San Diego St.,HAW
+      1 hhc,New Mexico St.,HAW
+      1 hhc,Hawaii,WASH
+      1 hhc,Hawaii,UNLV
+      1 hhc,Hawaii,NEV
+      1 hhc,Hawaii,LT
+      1 hhc,Hawaii,COST
+      1 hhc,BYU,BYU
+      1 hhc,Army,HAW
+      1 hha,Cent. Michigan,CEMI
+      1 ggh,Navy,NAVY
+      1 ggh,Navy,GASO
+      1 ggh,Georgia Southern,NAVY
+      1 ggh,Georgia,GASO
+      1 ggf,Wake Forest,WAKE
+      1 ggf,Wake Forest,GAWE
+      1 ggf,Ohio,GAWE
+      1 ggf,Gardner-Webb,PITT
+      1 ggf,Gardner-Webb,OHIO
+      1 ggd,TCU,TCU
+      1 ggd,Grambling St.,ULM
+      1 ggc,North Carolina,GT
+      1 ggc,Miami (FL),MIAF
+      1 ggc,Miami (FL),GT
+      1 ggc,Georgia Tech,UGA
+      1 ggc,Georgia Tech,NCST
+      1 ggc,Georgia Tech,MTSU
+      1 ggb,Tennessee,midfield
+      1 ggb,Mississippi St.,UGA
+      1 ggb,Georgia,TENN
+      1 ggb,Georgia,SCAR
+      1 ggb,Georgia,GT
+      1 ggb,Georgia,FLA
+      1 ggb,Georgia,COLO
+      1 gag,Tennessee,GAST
+      1 gag,Houston,HOU
+      1 gag,Alabama,GAST
+      1 fli,UCF,FIU
+      1 fli,Toledo,midfield
+      1 fli,Pittsburgh,FIU
+      1 fli,North Texas,FIU
+      1 fli,LA Monroe,FIU
+      1 fli,Florida Intl.,WEKY
+      1 fli,Florida Intl.,PITT
+      1 fli,Florida Intl.,midfield
+      1 fli,Florida Intl.,MD
+      1 fli,Florida Intl.,DUKE
+      1 fli,Duke,FIU
+      1 ffr,Troy,TROY
+      1 ffr,Troy,FAU
+      1 ffr,South Florida,SFLA
+      1 ffr,South Florida,FAU
+      1 ffr,Michigan St.,MIST
+      1 ffr,Florida Intl.,FIU
+      1 ffr,Florida Intl.,FAU
+      1 ffr,Florida Atlantic,WEKY
+      1 ffr,Florida Atlantic,UNT
+      1 ffr,Florida Atlantic,MIST
+      1 ffl,Fordham,ARMY
+      1 ffl,Army,ARMY
+      1 ffg,Furman,FLA
+      1 ffe,Tulsa,midfield
+      1 ffe,Oregon,FRST
+      1 ffe,Nevada,FRST
+      1 ffe,Louisiana Tech,FRST
+      1 ffe,Idaho,FRST
+      1 ffe,Fresno St.,SDSU
+      1 ffe,Fresno St.,NEV
+      1 ffe,Fresno St.,LT
+      1 ffe,Fresno St.,COST
+      1 ffe,California,FRST
+      1 ffc,Wake Forest,FLST
+      1 ffc,Virginia Tech,FLST
+      1 ffc,Virginia,midfield
+      1 ffc,Florida St.,SFLA
+      1 ffc,Florida St.,midfield
+      1 ffc,Florida St.,MD
+      1 ffc,Florida St.,FLA
+      1 ffc,Florida St.,DUKE
+      1 ffc,Duke,FLST
+      1 ffb,Miami (FL),MIAF
+      1 ffa,Vanderbilt,midfield
+      1 ffa,Penn St.,FLA
+      1 ffa,Florida,VAND
+      1 ffa,Florida,TENN
+      1 ffa,Florida,PSU
+      1 ffa,Florida,midfield
+      1 ffa,Florida,LSU
+      1 eeo,North Carolina,UNC
+      1 eeg,Washington St.,EWU
+      1 eeg,Nevada,EWU
+      1 eef,East. Michigan,BAST
+      1 eee,Louisville,EKU
+      1 eee,Kansas St.,KSST
+      1 eee,Kansas St.,EKU
+      1 eed,Eastern Illinois,midfield
+      1 eea,Virginia Tech,ECU
+      1 eea,South Carolina,ECU
+      1 eea,Rice,ECU
+      1 eea,East Carolina,USM
+      1 eea,East Carolina,ULL
+      1 eea,East Carolina,TULA
+      1 eea,East Carolina,SCAR
+      1 eea,East Carolina,RICE
+      1 eea,East Carolina,midfield
+      1 ddf,Wake Forest,DUKE
+      1 ddf,Stanford,DUKE
+      1 ddf,Florida St.,FLST
+      1 ddf,Duke,WAKE
+      1 ddf,Duke,midfield
+      1 ddf,Duke,GT
+      1 ddf,Duke,BC
+      1 ddd,Cincinnati,DSU
+      1 ddd,Cincinnati,CINC
+      1 ddc,Navy,DEL
+      1 ccz,UCF,UCF
+      1 ccz,UCF,CHSO
+      1 ccz,Illinois,ILL
+      1 ccz,Florida St.,CHSO
+      1 ccz,Charleston Sou.,FLST
+      1 ccq,W. Michigan,CONN
+      1 ccq,Pittsburgh,CONN
+      1 ccq,Cincinnati,CONN
+      1 cco,San Diego St.,COST
+      1 cco,Miami (OH),COST
+      1 cco,Colorado St.,SDSU
+      1 cco,Colorado St.,AFA
+      1 ccn,Washington St.,COLO
+      1 ccn,Stanford,STAN
+      1 ccn,Oregon,COLO
+      1 ccn,Oklahoma,COLO
+      1 ccn,Nebraska,COLO
+      1 ccn,Colorado,USC
+      1 ccn,Colorado,STAN
+      1 ccn,Colorado,MO
+      1 ccl,N.C. State,CLEM
+      1 ccl,Clemson,VT
+      1 ccl,Clemson,SCAR
+      1 ccl,Clemson,midfield
+      1 ccl,Clemson,MD
+      1 ccl,Boston Coll.,CLEM
+      1 cck,South Carolina,CIT
+      1 cck,Arizona,midfield
+      1 cck,Arizona,CIT
+      1 cck,Arizona,ARIZ
+      1 ccj,N.C. State,CINC
+      1 ccj,Louisville,CINC
+      1 ccj,Duke,midfield
+      1 ccj,Connecticut,CINC
+      1 ccj,Cincinnati,SYRA
+      1 ccj,Cincinnati,midfield
+      1 ccj,Cincinnati,LOUI
+      1 ccj,Cincinnati,CONN
+      1 ccg,N.C. State,CEMI
+      1 ccg,Kent St.,CEMI
+      1 ccg,Cent. Michigan,UK
+      1 ccg,Cent. Michigan,EMU
+      1 ccf,UCF,MARS
+      1 ccf,UCF,HOU
+      1 ccf,UCF,ECU
+      1 ccf,UCF,BUF
+      1 ccf,Tulsa,UCF
+      1 ccf,Florida Intl.,UCF
+      1 ccd,Washington,CAL
+      1 ccd,Stanford,CAL
+      1 ccd,Oregon,midfield
+      1 ccd,California,USC
+      1 ccd,California,midfield
+      1 ccd,Arizona St.,CAL
+      1 ccb,UC Davis,SJSU
+      1 ccb,UC Davis,CAL
+      1 ccb,California,UCD
+      1 ccb,Arizona St.,UCD
+      1 ccb,Arizona St.,AZST
+      1 cbi,West Virginia,WVU
+      1 cbi,West Virginia,CCU
+      1 cas,Nebraska,NEB
+      1 cas,Nebraska,CHAT
+      1 cas,Auburn,midfield
+      1 caa,Fresno St.,CPSLO
+      1 bbp,Tennessee,TENN
+      1 bbp,Temple,TEM
+      1 bbp,Pittsburgh,BUF
+      1 bbp,Connecticut,BUF
+      1 bbp,Buffalo,midfield
+      1 bbp,Buffalo,CONN
+      1 bbi,UTEP,BYU
+      1 bbi,TCU,BYU
+      1 bbi,Oregon St.,BYU
+      1 bbi,BYU,UTEP
+      1 bbi,BYU,TCU
+      1 bbi,BYU,ORST
+      1 bbi,BYU,HAW
+      1 bbi,BYU,GT
+      1 bbh,Virginia Tech,VT
+      1 bbh,Michigan,midfield
+      1 bbh,Miami (OH),BGSU
+      1 bbh,Florida,BGSU
+      1 bbh,Bowling Green,WVU
+      1 bbh,Bowling Green,TULS
+      1 bbh,Bowling Green,TROY
+      1 bbh,Bowling Green,BUF
+      1 bbf,Notre Dame,BC
+      1 bbf,Boston Coll.,MD
+      1 bbf,Boston Coll.,GT
+      1 bbe,New Mexico,BOST
+      1 bbe,Idaho,BOST
+      1 bbe,Boise St.,WYO
+      1 bbe,Boise St.,TOL
+      1 bbe,Boise St.,NEV
+      1 bbe,Boise St.,midfield
+      1 bbe,Boise St.,IDA
+      1 bbe,Boise St.,HAW
+      1 bbb,UCLA,BAY
+      1 bbb,Texas,BAY
+      1 bbb,Oklahoma St.,BAY
+      1 bbb,Colorado,BAY
+      1 bbb,Baylor,ULM
+      1 bbb,Baylor,UCLA
+      1 bbb,Baylor,TAMU
+      1 bbb,Baylor,RICE
+      1 bbb,Baylor,KSST
+      1 bbb,Baylor,IAST
+      1 bba,W. Michigan,BAST
+      1 bba,UCF,BAST
+      1 bba,Toledo,BAST
+      1 bba,Oklahoma,BAST
+      1 bba,Iowa,IOWA
+      1 bba,Clemson,BAST
+      1 bba,Ball St.,PURD
+      1 bba,Ball St.,NIU
+      1 bba,Ball St.,IND
+      1 bba,Ball St.,EMU
+      1 aaz,UAB,SCAR
+      1 aaz,UAB,OHST
+      1 aaz,Memphis,UAB
+      1 aaz,Houston,UAB
+      1 aas,Austin Peay,WEKY
+      1 aas,Austin Peay,midfield
+      1 aar,LSU,AUB
+      1 aar,Kentucky,AUB
+      1 aar,Auburn,MSST
+      1 aar,Auburn,MISS
+      1 aaq,Vanderbilt,ARMY
+      1 aaq,San Diego St.,SDSU
+      1 aaq,East. Michigan,ARMY
+      1 aaq,Army,NIU
+      1 aaq,Army,EMU
+      1 aaq,Army,DUKE
+      1 aap,Troy,ARST
+      1 aap,LA Monroe,ARST
+      1 aap,Indiana,ARST
+      1 aap,Arkansas St.,NAVY
+      1 aap,Arkansas St.,midfield
+      1 aap,Arkansas St.,FAU
+      1 aap,Arkansas St.,AUB
+      1 aan,Texas A&M,ARK
+      1 aan,Auburn,ARK
+      1 aam,Washington St.,AZST
+      1 aam,Washington,AZST
+      1 aam,USC,AZST
+      1 aam,UCLA,AZST
+      1 aam,Colorado,AZST
+      1 aam,California,midfield
+      1 aam,California,AZST
+      1 aam,Arizona St.,WAST
+      1 aal,Washington,midfield
+      1 aal,USC,ARIZ
+      1 aal,UCLA,ARIZ
+      1 aal,Oregon St.,ARIZ
+      1 aal,Oregon,ORE
+      1 aal,Arizona St.,ARIZ
+      1 aal,Arizona,midfield
+      1 aak,Florida,APST
+      1 aah,Arkansas St.,ARST
+      1 aad,Tennessee,ALA
+      1 aad,Mississippi St.,ALA
+      1 aad,Mississippi,ALA
+      1 aad,LSU,ALA
+      1 aad,Alabama,PSU
+      1 aad,Alabama,FLA
+      1 aad,Alabama,DUKE
+      1 aad,Alabama,ARK
+      1 aac,Toledo,AKR
+      1 aac,Tennessee,midfield
+      1 aac,Temple,TEM
+      1 aac,Ohio St.,OHST
+      1 aac,Ohio,midfield
+      1 aac,Ohio,AKR
+      1 aac,Kent St.,AKR
+      1 aac,Buffalo,BUF
+      1 aac,Akron,BAST
+      1 aab,UNLV,AFA
+      1 aab,Oklahoma,AFA
+      1 aab,Notre Dame,AFA
+      1 aab,Boise St.,AFA
+      1 aab,Army,AFA
+      1 aab,Air Force,UNLV
+      1 aab,Air Force,COST

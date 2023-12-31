@@ -1,5 +1,9 @@
 *.html
 *.json
+*.tar
+*.zip
+*.gz
+*.bz2
 
 # Directories of bulk data which isn't important
 archive/

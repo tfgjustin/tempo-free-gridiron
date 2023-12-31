@@ -1,0 +1,129 @@
+AKRON,Akron Zips
+ALABAMA,Alabama Crimson Tide
+UAB,UAB Blazers
+APPALACHIAN ST.,Appalachian State Mountaineers
+ARIZONA ST.,Arizona State Sun Devils
+ARIZONA,Arizona Wildcats
+ARKANSAS ST.,Arkansas State Red Wolves
+ARKANSAS,Arkansas Razorbacks
+AUBURN,Auburn Tigers
+BALL ST.,Ball State Cardinals
+BAYLOR,Baylor Bears
+BOISE ST.,Boise State Broncos
+BOSTON COLLEGE,Boston College Eagles
+BOWLING GREEN,Bowling Green Falcons
+BYU,BYU Cougars
+BUFFALO,Buffalo Bulls
+FRESNO ST.,Fresno State Bulldogs
+CALIFORNIA,California Golden Bears
+UCLA,UCLA Bruins
+UCF,UCF Knights
+CENTRAL MICH.,Central Michigan Chippewas
+CINCINNATI,Cincinnati Bearcats
+CLEMSON,Clemson Tigers
+COASTAL CARO.,Coastal Carolina Chanticleers
+COLORADO ST.,Colorado State Rams
+COLORADO,Colorado Buffaloes
+CONNECTICUT,Connecticut Huskies
+DUKE,Duke Blue Devils
+EAST CAROLINA,East Carolina Pirates
+EASTERN MICH.,Eastern Michigan Eagles
+FLA. ATLANTIC,Florida Atlantic Owls
+FIU,FIU Golden Panthers
+FLORIDA ST.,Florida State Seminoles
+FLORIDA,Florida Gators
+GA. SOUTHERN,Georgia Southern Eagles
+GEORGIA TECH,Georgia Tech Yellow Jackets
+GEORGIA,Georgia Bulldogs
+HAWAII,Hawaii Warriors
+HOUSTON,Houston Cougars
+IDAHO,Idaho Vandals
+ILLINOIS,Illinois Fighting Illini
+INDIANA,Indiana Hoosiers
+IOWA ST.,Iowa State Cyclones
+IOWA,Iowa Hawkeyes
+KANSAS ST.,Kansas State Wildcats
+KANSAS,Kansas Jayhawks
+KENT ST.,Kent State Golden Flashes
+KENTUCKY,Kentucky Wildcats
+LSU,LSU Tigers
+LOUISIANA TECH,Louisiana Tech Bulldogs
+LOUISVILLE,Louisville Cardinals
+MARSHALL,Marshall Thundering Herd
+MARYLAND,Maryland Terrapins
+MASSACHUSETTS,Massachusetts Minutemen
+MEMPHIS,Memphis Tigers
+MIAMI (OH),Miami-Ohio Redhawks
+MIAMI (FL),Miami Hurricanes
+MICHIGAN ST.,Michigan State Spartans
+MICHIGAN,Michigan Wolverines
+MIDDLE TENN.,Middle Tennessee Blue Raiders
+MINNESOTA,Minnesota Golden Gophers
+MISSISSIPPI ST.,Mississippi State Bulldogs
+MISSISSIPPI,Mississippi Rebels
+MISSOURI,Missouri Tigers
+NORTH CAROLINA,North Carolina Tar Heels
+CHARLOTTE,Charlotte 49ers
+NEBRASKA,Nebraska Cornhuskers
+UNLV,UNLV Rebels
+NEVADA,Nevada Wolf Pack
+NEW MEXICO ST.,New Mexico State Aggies
+NEW MEXICO,New Mexico Lobos
+NORTH CAROLINA ST.,North Carolina State Wolfpack
+NORTH TEXAS,North Texas Mean Green
+LA.-MONROE,Louisiana-Monroe Warhawks
+NORTHERN ILL.,Northern Illinois Huskies
+NORTHWESTERN,Northwestern Wildcats
+NOTRE DAME,Notre Dame Fighting Irish
+OHIO ST.,Ohio State Buckeyes
+OHIO,Ohio Bobcats
+OKLAHOMA ST.,Oklahoma State Cowboys
+OKLAHOMA,Oklahoma Sooners
+OLD DOMINION,Old Dominion Monarchs
+OREGON ST.,Oregon State Beavers
+OREGON,Oregon Ducks
+PENN ST.,Penn State Nittany Lions
+PITTSBURGH,Pittsburgh Panthers
+PURDUE,Purdue Boilermakers
+RICE,Rice Owls
+RUTGERS,Rutgers Scarlet Knights
+SAN DIEGO ST.,San Diego State Aztecs
+SAN JOSE ST.,San Jose State Spartans
+SOUTH ALA.,South Alabama Jaguars
+SOUTH CAROLINA,South Carolina Gamecocks
+SOUTH FLA.,South Florida Bulls
+SOUTHERN CALIFORNIA,USC Trojans
+SMU,SMU Mustangs
+SOUTHERN MISS.,Southern Miss Golden Eagles
+LA.-LAFAYETTE,Louisiana-Lafayette Ragin' Cajuns
+STANFORD,Stanford Cardinal
+SYRACUSE,Syracuse Orange
+TEMPLE,Temple Owls
+TENNESSEE,Tennessee Volunteers
+TEXAS A&M,Texas A&M Aggies
+TEXAS ST.,Texas State Bobcats
+TCU,TCU Horned Frogs
+TEXAS TECH,Texas Tech Red Raiders
+TEXAS,Texas Longhorns
+UTEP,UTEP Miners
+UTSA,UTSA Roadrunners
+TOLEDO,Toledo Rockets
+TROY,Troy Trojans
+TULANE,Tulane Green Wave
+TULSA,Tulsa Golden Hurricane
+AIR FORCE,Air Force Falcons
+ARMY,Army Knights
+NAVY,Navy Midshipmen
+UTAH ST.,Utah State Aggies
+UTAH,Utah Utes
+VANDERBILT,Vanderbilt Commodores
+VIRGINIA TECH,Virginia Tech Hokies
+VIRGINIA,Virginia Cavaliers
+WAKE FOREST,Wake Forest Demon Deacons
+WASHINGTON ST.,Washington State Cougars
+WASHINGTON,Washington Huskies
+WEST VIRGINIA,West Virginia Mountaineers
+WESTERN KY.,Western Kentucky Hilltoppers
+WESTERN MICH.,Western Michigan Broncos
+WISCONSIN,Wisconsin Badgers
+WYOMING,Wyoming Cowboys

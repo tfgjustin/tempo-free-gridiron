@@ -1,0 +1,121 @@
+Air Force,1721
+Akron,1005
+Alabama,1008
+Arizona,1029
+Arizona St.,1028
+Arkansas,1031
+Arkansas St.,1030
+Army,1725
+Auburn,1037
+Ball St.,1047
+Baylor,1051
+Boise St.,1066
+Boston College,1067
+Bowling Green,1071
+Buffalo,1086
+BYU,1077
+California,1107
+Central Florida,1128
+Central Mich.,1129
+Cincinnati,1140
+Clemson,1147
+Colorado,1157
+Colorado St.,1156
+Connecticut,1164
+Duke,1193
+East Carolina,1196
+Eastern Mich.,1204
+Florida,1235
+Florida Atlantic,1229
+Florida Intl.,1231
+Florida St.,1234
+Fresno St.,1096
+Georgia,1257
+Georgia State,1254
+Georgia Tech,1255
+Hawaii,1277
+Houston,1288
+Idaho,1295
+Illinois,1301
+Indiana,1306
+Iowa,1312
+Iowa St.,1311
+Kansas,1328
+Kansas St.,1327
+Kent,1331
+Kentucky,1334
+Louisiana-Lafaye,1671
+Louisiana-Monroe,1498
+Louisiana Tech,1366
+Louisville,1367
+LSU,1365
+Marshall,1388
+Maryland,1392
+Memphis,1404
+Miami (Fla.),1415
+Miami (Ohio),1414
+Michigan,1418
+Michigan St.,1416
+Middle Tenn.,1419
+Minnesota,1428
+Mississippi,1433
+Mississippi St.,1430
+Missouri,1434
+Navy,1726
+NC St.,1490
+Nebraska,1463
+Nevada,1466
+New Mexico,1473
+New Mexico St.,1472
+North Carolina,1457
+Northern Ill.,1503
+North Texas,1497
+Northwestern,1509
+Notre Dame,1513
+Ohio,1519
+Ohio St.,1518
+Oklahoma,1522
+Oklahoma St.,1521
+Oregon,1529
+Oregon St.,1528
+Penn St.,1539
+Pittsburgh,1545
+Purdue,1559
+Rice,1574
+Rutgers,1587
+San Diego St.,1626
+San Jose St.,1630
+SMU,1663
+South Carolina,1648
+Southern Miss.,1664
+South Florida,1651
+Stanford,1674
+Syracuse,1688
+TCU,1698
+Temple,1690
+Tennessee,1694
+Texas,1703
+Texas A&M,1697
+Texas Tech,1700
+Toledo,1709
+Troy St.,1716
+Tulane,1718
+Tulsa,1719
+UAB,1009
+UCLA,1110
+UNLV,1465
+USC,1657
+Utah,1732
+Utah St.,1731
+UTEP,1704
+Vanderbilt,1736
+Virginia,1746
+Virginia Tech,1742
+Wake Forest,1749
+Washington,1756
+Washington St.,1754
+Western Kentucky,1772
+Western Mich.,1774
+West Va.,1768
+Wisconsin,1796
+Wyoming,1811
