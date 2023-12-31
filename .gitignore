@@ -1,3 +1,16 @@
 *.html
 *.json
 
+# Directories of bulk data which isn't important
+archive/
+chrome/
+covers/
+db/
+dropbox-local/
+images/
+nytprof/
+odds/
+output/
+pbp/
+test/
+tmp/
