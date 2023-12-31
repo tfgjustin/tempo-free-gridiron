@@ -3,6 +3,7 @@
 
 # Directories of bulk data which isn't important
 archive/
+bets/
 chrome/
 covers/
 db/
