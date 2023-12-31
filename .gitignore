@@ -15,3 +15,9 @@ output/
 pbp/
 test/
 tmp/
+
+# C/C++ ignores
+*.o
+*.d
+*.deps
+predict
