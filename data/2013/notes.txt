@@ -1,0 +1,6 @@
+Output:
+GameID,NumPoints,NumPlays,TotalYards,PassYards,RushYards,NumIntercept,Fumbles,NumPenalties,PassPlays,RushPlays,Num1stDowns,ScorePlays
+GameID: YYYYMMDD-TFGID
+TotalYards: KORetYards + PuntRetYards + IntRetYards + PassYards + RushYards
+NumPlays: FGA + Punts + TDs + 1 + PassPlays + RushPlays + (NumPenalties / 2)
+ScorePlays: FGM + TDs
