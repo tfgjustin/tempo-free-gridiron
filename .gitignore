@@ -25,3 +25,6 @@ tmp/
 *.d
 *.deps
 predict
+
+# Python ignores
+*.pyc
